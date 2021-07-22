@@ -20,7 +20,10 @@ importance: 9
         '<b>{{talk.title}}</b>', <i>{{talk.seminar}}</i>, {{talk.location}} - {{talk.date | date: "%b %Y"}}
     </li>
     {% if talk.notes %}
-    I wrote notes for this talk, which you can find <a href="{{ absolute_url }}/assets/pdf/{{ talk.notes }}">here</a>.
+        I wrote notes for this talk, which you can find <a href="{{ absolute_url }}/assets/pdf/{{ talk.notes }}">here</a>.
+    {% endif %}
+    {% if talk.paper %}
+        This talk was on work published in <a href="{{ talk.paper }}">this paper</a>.
     {% endif %}
     <div style="margin-bottom:10px"></div>
   {% endfor %}

@@ -2,7 +2,7 @@
 layout: page
 permalink: /notes/
 title: notes
-description: Various notes I've written. They probably all contain mistakes, but hopefully some are nevertheless useful.
+description: Various notes I've written. They all contain mistakes and/or TODOs, but hopefully some are nevertheless useful.
 types: [Course Notes, Notes for Talks, Other Notes]
 nav: true
 importance: 9
