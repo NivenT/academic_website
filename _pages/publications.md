@@ -6,6 +6,7 @@ description: publications by categories in reversed chronological order. generat
 years: [2019]
 nav: true
 importance: 0
+skip: true
 ---
 
 <div class="publications">

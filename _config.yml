@@ -9,7 +9,7 @@ last_name: Achenjang
 email: nachenjang@gmail.com
 description: My academic site
 
-icon:
+icon: 
 url: # the base hostname & protocol for your site
 baseurl: / # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
