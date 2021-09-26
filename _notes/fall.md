@@ -1,6 +1,6 @@
 ---
 title: Fall 2020 Course Notes
-importance: 0
+importance: 10
 type: Course Notes
 pdf: Fall_2020_Course_Notes.pdf
 ---
