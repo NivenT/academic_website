@@ -17,7 +17,21 @@ importance: 9
   <ul>
   {% for talk in talks %}
     <li> 
-        '<b>{{talk.title}}</b>', <i>{{talk.seminar}}</i>, {{talk.location}} - {{talk.date | date: "%b %Y"}}
+        '<b>
+            {% if talk.researchseminars %}
+                <a href="{{ talk.researchseminars }}">{{talk.title}}</a>
+            {% else %}
+                {{talk.title}}
+            {% endif %}
+        </b>', 
+        <i>
+            {% if talk.seminarpage %}
+                <a href="{{ talk.seminarpage }}">{{talk.seminar}}</a>
+            {% else %}
+                {{talk.seminar}}
+            {% endif %}
+        </i>, 
+        {{talk.location}} - {{talk.date | date: "%b %Y"}}
     </li>
     {% if talk.notes %}
         I wrote notes for this talk, which you can find <a href="{{ '/assets/pdf/' | relative_url}}/{{talk.notes}}">here</a>.

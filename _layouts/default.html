@@ -4,6 +4,10 @@
   <head>
     {% include head.html %}
     {% include scripts/mathjax.html %}
+    {% if page.secret %}
+    <META NAME="robots" CONTENT="noindex">
+    <META NMAE="robots" CONTENT="nofollow">
+    {% endif %}
   </head>
 
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
