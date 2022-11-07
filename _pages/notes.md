@@ -3,7 +3,7 @@ layout: page
 permalink: /notes/
 title: notes
 description: Various notes I've written. They all contain my confusions, mistakes, and/or TODOs, but hopefully are nevertheless useful.
-types: [Course Notes, Notes for Talks, Other Notes]
+types: [Course Notes, Notes for Talks, Seminar Notes, Other Notes]
 nav: true
 importance: 9
 ---
