@@ -9,6 +9,8 @@
     {% else %}
     <abbr class="badge">{{entry.abbr}}</abbr>
     {% endif %}
+  {% elsif entry.arxiv %}
+    <abbr class="badge">ArXiv</abbr>
   {% endif %}
   </div>
 
