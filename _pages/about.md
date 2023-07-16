@@ -9,11 +9,11 @@ profile:
   image: prof_pic.jpg
   address: 
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I'm a math grad student at MIT, interested broadly in algebraic number theory and arithmetic geometry. My advisor is [Bjorn Poonen](https://math.mit.edu/~poonen/).
+I am a math grad student at MIT, broadly interested in arithmetic geometry and especially in points on varieties. My advisor is [Bjorn Poonen](https://math.mit.edu/~poonen/).
 
 You can find my cv [here](.), once I make an up to date one.
 
