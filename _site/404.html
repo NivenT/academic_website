@@ -230,7 +230,7 @@ $$
 <!-- I hate web coding. This was unnecessarily annoying to get working, and is definitely not implemented in the best way -->
 <script type="text/javascript">
     function displayQuestion() {
-        $.getJSON("https://www.mit.edu/mathqns.json", function (qns) {
+        $.getJSON("/~NivenT/mathqns.json", function (qns) {
             var question = $("#change_me");
             
             const idx = Math.floor(Math.random() * qns.length);
