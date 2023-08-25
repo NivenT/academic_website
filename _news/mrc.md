@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I attended the MRC on [Explicit Computations with Stacks](https://www.ams.org/programs/research-communities/2023MRC-Stacks).
+I attended an MRC on [Explicit Computations with Stacks](https://www.ams.org/programs/research-communities/2023MRC-Stacks).

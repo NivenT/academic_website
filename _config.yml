@@ -99,8 +99,14 @@ collections:
   talks:
     output: true
     permalink: /talks/:path/
+  mathqns:
+    output: true
+    permalink: /mathqns/:path/
+  seminars:
+    output: true
+    permalink: /seminars/:path/
 
-news_limit: 4
+news_limit: 5
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

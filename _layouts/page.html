@@ -9,11 +9,16 @@ layout: default
       {% if page.secret %}
       <b>This is a secret page on this site. Please do not share the link to it. </b><br><br>
       {% endif %}
+      {% if page.has_math %}
+      <div style="width:0;height:0;display:none;">
+        {% include latex-header.md %}
+      </div>
+      {% endif %}
       {{ page.description }}
     </p>
   </header>
 
-  <article>
+  <article id="article-content">
     {{ content }}
   </article>
 

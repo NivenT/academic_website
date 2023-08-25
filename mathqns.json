@@ -1,0 +1,12 @@
+---
+---
+[
+  {% for qn in site.mathqns %}
+  {
+    "url":    "{{ qn.url }}",
+    "title":  "{{ qn.title }}"
+  }
+    
+  {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
