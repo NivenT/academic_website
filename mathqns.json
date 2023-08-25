@@ -3,7 +3,7 @@
 [
   {% for qn in site.mathqns %}
   {
-    "url":    "{{ qn.url }}",
+    "url":    "{{ qn.url | relative_url }}",
     "title":  "{{ qn.title }}"
   }
     

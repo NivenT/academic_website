@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I'm gonna try running a [seminar on modularity and Fermat]({{ site.url }}/seminars/mf).
+I'm gonna try running a [seminar on modularity and Fermat]({{ '/seminars/mf' | relative_url }}).
