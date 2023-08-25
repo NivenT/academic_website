@@ -8,6 +8,17 @@ p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
   color: var(--global-text-color);
 }
 
+table {
+  width: 100%;
+  td, th {
+    font-size: 1rem;
+    border-bottom: 1px solid var(--global-divider-color);
+  }
+  th {
+    font-weight: bold;
+  }
+}
+
 a, table.table a {
   color: var(--global-theme-color);
   &:hover {
@@ -17,6 +28,10 @@ a, table.table a {
   &:hover:after {
     width: 100%;
   }
+}
+
+.table-dark {
+  background-color: transparent;
 }
 
 blockquote {
@@ -337,8 +352,8 @@ footer.sticky-bottom {
   }
 
   h2.category {
-    color: $grey-color-light;
-    border-bottom: 1px solid $grey-color-light;
+    color: var(--global-text-color);
+    border-bottom: 1px solid var(--global-divider-color);
     padding-top: 0.5rem;
     margin-top: 2rem;
     margin-bottom: 1rem;
@@ -365,8 +380,8 @@ footer.sticky-bottom {
     }
   }
   h2.year {
-    color: $grey-color-light;
-    border-top: 1px solid $grey-color-light;
+    color: var(--global-text-color);
+    border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
     margin-bottom: -2rem;

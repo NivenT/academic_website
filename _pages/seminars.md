@@ -9,15 +9,13 @@ horizontal: false
 ---
 
 <!--
- My seminars pages and formatting are based off of those of Haitao Zou
+ The page is based off of Haitao Zou's seminar page
  https://github.com/htzoufdu/htzoufdu.github.io/tree/master
  https://htzoufdu.github.io/
 -->
 <div class="publications">
 <h2 class="year"></h2><br>
 </div>
-
-The formatting of this page is based off of [Haitao Zou's](https://htzoufdu.github.io/) [Seminar page](https://htzoufdu.github.io/seminars/).
 
 <div class="projects">
 {% for y in page.years %}

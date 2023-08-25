@@ -106,7 +106,7 @@ collections:
     output: true
     permalink: /seminars/:path/
 
-news_limit: 4
+news_limit: 5
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
