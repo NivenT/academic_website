@@ -13,7 +13,7 @@
   Niven T. Achenjang
 
 
-  | teaching
+  | none
 
 </title>
 <meta name="description" content="My academic site">
@@ -40,7 +40,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22></text></svg>">
 
 <link rel="stylesheet" href="/~NivenT/assets/css/main.css">
-<link rel="canonical" href="/~NivenT/teaching/">
+<link rel="canonical" href="/~NivenT/mathqns/double_P1/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -70,9 +70,6 @@
 <script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 
 
-    
-    <META NAME="robots" CONTENT="noindex">
-    <META NMAE="robots" CONTENT="nofollow">
     
   </head>
 
@@ -141,8 +138,6 @@
           
           
           
-          
-          
           <li class="nav-item ">
               <a class="nav-link" href="/~NivenT/notes/">
                 notes
@@ -191,18 +186,48 @@
       <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">teaching</h1>
+    <h1 class="post-title">none</h1>
     <p class="post-description">
       
-      <b>This is a secret page on this site. Please do not share the link to it. </b><br><br>
+      
+      <div style="width:0;height:0;display:none;">
+        $$
+\newcommand\F{\mathbb F}
+\newcommand\P{\mathbb P}
+\newcommand\A{\mathbb A}
+\newcommand\msO{\mathscr O}
+\newcommand\msL{\mathscr L}
+\newcommand\ms{\mathscr}
+
+\newcommand\eps{\varepsilon}
+
+\newcommand\opname{\operatorname}
+\newcommand\Proj{\opname{Proj}}
+\newcommand\Pic{\opname{Pic}}
+\newcommand\hom{\opname H}
+\newcommand\Char{\opname{char}}
+\newcommand\Hom{\opname{Hom}}
+
+\newcommand\inv[2][1]{#2^{-#1}}
+\newcommand\pinv[2][1]{\inv[#1]{\p{#2}}}
+
+\newcommand\p[1]{\left(#1\right)}
+$$
+
+      </div>
       
       
-      Materials for courses you taught. Replace this text with your description.
     </p>
   </header>
 
   <article id="article-content">
-    
+    <p>Fix a field \(F\). Here are three schemes which could all be described colloquially as “\(\P^1\), but with multiplicity \(2\).” Which, if any, among them are isomorphic as \(F\)-schemes?</p>
+
+<ul>
+  <li>The subscheme \(X_1:=\{Y^2 = 0\}\subset\P^2_F\). In other words, \(X_1=\Proj F[X,Y,Z]/(Y^2)\), where \(X,Y,Z\) are all in degree \(1\).</li>
+  <li>The subscheme \(X_2:=\{Y^2 = 0\}\subset\P(1,2,1)_F\). In other words, \(X_2=\Proj F[X,Y,Z]/(Y^2)\), where \(X,Z\) are in degree \(1\), but \(Y\) is in degree \(2\).</li>
+  <li>The scheme \(X_3:=\P^1_{F[\eps]/(\eps)^2}\), but viewed as an \(F\)-scheme.</li>
+</ul>
 
   </article>
 

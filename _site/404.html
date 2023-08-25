@@ -13,7 +13,7 @@
   Niven T. Achenjang
 
 
-  | teaching
+  | 404 Page Not Found
 
 </title>
 <meta name="description" content="My academic site">
@@ -40,7 +40,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22></text></svg>">
 
 <link rel="stylesheet" href="/~NivenT/assets/css/main.css">
-<link rel="canonical" href="/~NivenT/teaching/">
+<link rel="canonical" href="/~NivenT/404.html">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -70,9 +70,6 @@
 <script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 
 
-    
-    <META NAME="robots" CONTENT="noindex">
-    <META NMAE="robots" CONTENT="nofollow">
     
   </head>
 
@@ -141,8 +138,6 @@
           
           
           
-          
-          
           <li class="nav-item ">
               <a class="nav-link" href="/~NivenT/notes/">
                 notes
@@ -191,18 +186,75 @@
       <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">teaching</h1>
+    <h1 class="post-title">404 Page Not Found</h1>
     <p class="post-description">
       
-      <b>This is a secret page on this site. Please do not share the link to it. </b><br><br>
+      
+      <div style="width:0;height:0;display:none;">
+        $$
+\newcommand\F{\mathbb F}
+\newcommand\P{\mathbb P}
+\newcommand\A{\mathbb A}
+\newcommand\msO{\mathscr O}
+\newcommand\msL{\mathscr L}
+\newcommand\ms{\mathscr}
+
+\newcommand\eps{\varepsilon}
+
+\newcommand\opname{\operatorname}
+\newcommand\Proj{\opname{Proj}}
+\newcommand\Pic{\opname{Pic}}
+\newcommand\hom{\opname H}
+\newcommand\Char{\opname{char}}
+\newcommand\Hom{\opname{Hom}}
+
+\newcommand\inv[2][1]{#2^{-#1}}
+\newcommand\pinv[2][1]{\inv[#1]{\p{#2}}}
+
+\newcommand\p[1]{\left(#1\right)}
+$$
+
+      </div>
       
       
-      Materials for courses you taught. Replace this text with your description.
     </p>
   </header>
 
   <article id="article-content">
+    <p>Seems the page you are looking for doesn’t exist (yet). No worries. While you wait for me to make it, here’s something you can think about to pass the time…</p>
+
+<div id="change_me" class="publications"></div>
+
+<p>Alternatively, instead of thinking about this, it might not hurt to double check the URL in case it contains a typo…</p>
+
+<!-- I hate web coding. This was unnecessarily annoying to get working, and is definitely not implemented in the best way -->
+<script type="text/javascript">
+    function displayQuestion() {
+        $.getJSON("https://www.mit.edu/mathqns.json", function (qns) {
+            var question = $("#change_me");
+            
+            const idx = Math.floor(Math.random() * qns.length);
+            const title = qns[idx]["title"] == "none" ? "Question" : qns[idx]["title"];
+            
+            $.get( qns[idx]["url"], function (data) {
+                var el = document.createElement('html');
+                el.innerHTML = data;
+                const content = el.getElementsByTagName('article')[0].innerHTML;
+                
+                question.append(`<h2 class="year">${title}</h2>
+                                  <br><br>
+                                  ${content}
+                                  <h2 class="year"></h2>
+                                  <br>
+                                 `);
+                MathJax.typeset();
+            });
+        });
+    }
     
+    $(document).ready(() => displayQuestion());
+</script>
+
 
   </article>
 
