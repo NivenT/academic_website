@@ -29,5 +29,5 @@ horizontal: false
             {% endfor %}
             </div>
         </div>
-{% endfor %}    
+{% endfor %}
 </div>
