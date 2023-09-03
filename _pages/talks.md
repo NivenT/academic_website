@@ -30,14 +30,14 @@ importance: 9
             {% else %}
                 {{talk.seminar}}
             {% endif %}
-        </i>, 
+        </i>,
         {{talk.location}} - {{talk.date | date: "%b %Y"}}
     </li>
     {% if talk.notes %}
-        I wrote notes for this talk, which you can find <a href="{{ '/assets/pdf/' | relative_url}}/{{talk.notes}}">here</a>.
+        I wrote notes for this talk, which you can find <a href="{{ '/assets/pdf' | relative_url}}/{{talk.notes}}">here</a>.
     {% endif %}
     {% if talk.paper %}
-        This talk was on work published in <a href="{{ talk.paper }}">this paper</a>.
+        This talk was on work which can be found in <a href="{{ talk.paper }}">this paper</a>.
     {% endif %}
     <div style="margin-bottom:10px"></div>
   {% endfor %}
