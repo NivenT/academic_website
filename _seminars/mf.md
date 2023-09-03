@@ -16,7 +16,7 @@ Each meeting will have a specified topic and will start with someone giving a sh
 |Date| Topic | Speaker| Notes | References
 |:----| :----: | :----:| :----: | ----: |
 | Sep 1$$^*$$ | An Overview of the proof of Fermat | Niven Achenjang | [here]({{ '/assets/pdf/FLT_Overview_Notes.pdf' | relative_url}}) | [FLT, Chap 1]
-| Sep TBD | Galois representations associated to modular forms | [Vijay Srinivasan](https://math.mit.edu/~vijayrs/) | | [BCD+, Chaps 4,5,10]
+| Sep TBD | Galois representations associated to modular forms | [Vijay Srinivasan](https://math.mit.edu/~vijayrs/) | | [BCdS+, Chaps 4,5,10]
 | Sep TBD | Langlands-Tunnell | Kenta Suzuki |  | [FLT, Chap 6]
 
 <br>
@@ -30,7 +30,7 @@ $$^*$$ at 4:30PM in 2-361
 <br>
 [Gee] T. Gee, "[Modularity Lifting Theorems](https://arxiv.org/abs/2202.05818)"
 <br>
-[BCD+] D. Bump, J. W. Cogdell, E. de Shalit, D. Gaitsgory, E. Kowalski, S. S. Kudla, "[An Introduction to the Langlands Program](https://link.springer.com/book/10.1007/978-0-8176-8226-2)"
+[BCdS+] D. Bump, J. W. Cogdell, E. de Shalit, D. Gaitsgory, E. Kowalski, S. S. Kudla, "[An Introduction to the Langlands Program](https://link.springer.com/book/10.1007/978-0-8176-8226-2)"
 
 In addition to these, some of the notes in the following links might be useful for various aspects of things: [1](http://virtualmath1.stanford.edu/~conrad/modseminar/), [2](https://wstein.org/papers/serre/ribet-stein.pdf)
 (I'll add more as I discover more)
