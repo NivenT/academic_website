@@ -9,7 +9,7 @@ year: 2023
 This is a learning seminar on the proof of Fermat's Last Theorem and on modularity of elliptic curves. The main goal is to hopefully address the question, "How on Earth does one prove that some representation is modular?" Our main source will be [the big book](https://link.springer.com/book/10.1007/978-1-4612-1974-3) "Modular Forms and Fermat's Last Theorem'' edited by Cornell, Silverman, and Stevens, but we will use other sources as well (see below).
 
 # Schedule 
-Each meeting will have a specified topic and will start with someone giving a short (say, 20--40 minutes) talk/summary. Afterwards, we will proceed with an informal discussion to try to work out each others confusions. *Speakers are encouraged to write notes, and participants are encoraged to look at the reference(s) ahead of each meeting.*
+Each meeting will have a specified topic and will start with someone giving a short (say, 20--40 minutes) talk/summary.$$^\dagger$$ Afterwards, we will proceed with an informal discussion to try to work out each others confusions. *Speakers are encouraged to write notes, and participants are encoraged to look at the reference(s) ahead of each meeting.*
 
 <b>Meeting time: TBD (Will fix a regular time once the semester starts)</b>
 
@@ -26,6 +26,8 @@ My goal is to keep the schedule flexible (only the next 2-3 talks fixed at any t
 
 <br>
 $$^*$$ at 4:30PM in 2-361
+<br>
+$$^\dagger$$ If you want to speak for longer, that's fine too; just let me know ahead of time. The main motivations for the default format are to leave room for plenty of audience participation and to not stress out the speaker if they end up having a lot going on around the time their talk is coming up.
 
 ## Sources
 
