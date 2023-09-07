@@ -21,7 +21,7 @@ My goal is to keep the schedule flexible (only the next 2-3 talks fixed at any t
 | Sep TBD | Galois representations associated to modular forms | [Vijay Srinivasan](https://math.mit.edu/~vijayrs/) | | [BCdS+, Chaps 4,5,10]
 | Sep TBD | Langlands-Tunnell, part I | Kenta Suzuki |  | [FLT, Chap 6]
 | Sep TBD | Langlands-Tunnell, part II | [Grant Barkley](https://people.math.harvard.edu/~barkley/) | | [FLT, Chap 6]
-| ??? | Serre's (epsilon) Conjecture and Ribet's Proof | ??? | | [FLT, Chap 7]
+| ??? | Serre's (epsilon) Conjecture and Ribet's Proof | Dylan Pentland | | [FLT, Chap 7]
 | ??? | Intro to Galois Deformations | ??? | | [Gee], [DDT, Chap 2],<br> [FLT, Chap 8]
 
 <br>
