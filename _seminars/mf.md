@@ -11,17 +11,23 @@ This is a learning seminar on the proof of Fermat's Last Theorem and on modulari
 # Schedule 
 Each meeting will have a specified topic and will start with someone giving a short (say, 20--40 minutes) talk/summary.$$^\dagger$$ Afterwards, we will proceed with an informal discussion to try to work out each others confusions. *Speakers are encouraged to write notes, and participants are encoraged to look at the reference(s) ahead of each meeting.*
 
-<b>Meeting time: TBD (Will fix a regular time once the semester starts)</b>
+<b>Meeting time: Fridays 5:30 - 7:00PM in 2-361 
+<br>
+(Because of scheduling difficulties, this is subject to change in any given week)</b>
 
-My goal is to keep the schedule flexible (only the next 2-3 talks fixed at any time), so we can switch up topics as audience interest dictates. If you want to talk about anything in particular, do let me know. If you see a topic below *without* a speaker, then this is a suggestion from me; ask me for more info if you might want to give that talk. If you see a ??? in the Date, then the placement of this topic is still extra flexible, so it does *not* have to come up in the indicated position.
+My goal is to keep the schedule flexible (only the next 2-3 talks fixed at any time), so we can switch up topics as audience interests dictate. 
+
+- If you want to talk about anything in particular, do let me know. If you see a topic below *without* a speaker, then this is a suggestion from me; ask me for more info if you might want to give that talk. 
+- If you see a ??? in the Date, then the placement of this topic is still extra flexible, so it does *not* have to come up in the indicated position.
+- If you see a ? after the Date, then that means the indicated date is probably when the talk will happen, but possibly this could get changed (e.g. if the speaker can't make the usual time).
 
 |Date| Topic | Speaker| Notes | References
 |:----| :----: | :----:| :----: | ----: |
 | Sep 1$$^*$$ | An Overview of the proof of Fermat | Niven Achenjang | [here]({{ '/assets/pdf/FLT_Overview_Notes.pdf' | relative_url}}) | [FLT, Chap 1]
-| Sep TBD | Galois representations associated to modular forms | [Vijay Srinivasan](https://math.mit.edu/~vijayrs/) | | [BCdS+, Chaps 4,5,10]
-| Sep TBD | Langlands-Tunnell, part I | Kenta Suzuki |  | [FLT, Chap 6]
-| Sep TBD | Langlands-Tunnell, part II | [Grant Barkley](https://people.math.harvard.edu/~barkley/) | | [FLT, Chap 6]
-| ??? | Serre's (epsilon) Conjecture and Ribet's Proof | ??? | | [FLT, Chap 7]
+| Sep 15 | Galois representations associated to modular forms | [Vijay Srinivasan](https://math.mit.edu/~vijayrs/) | | [BCdS+, Chaps 4,5,10]
+| Sep 22 | Langlands-Tunnell, part I | Kenta Suzuki |  | [FLT, Chap 6]
+| Sep 29? | Langlands-Tunnell, part II | [Grant Barkley](https://people.math.harvard.edu/~barkley/) | | [FLT, Chap 6]
+| ??? | Serre's (epsilon) Conjecture and Ribet's Proof | Dylan Pentland | | [FLT, Chap 7]
 | ??? | Intro to Galois Deformations | ??? | | [Gee], [DDT, Chap 2],<br> [FLT, Chap 8]
 
 <br>
