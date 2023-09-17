@@ -23,11 +23,11 @@ My goal is to keep the schedule flexible (only the next 2-3 talks fixed at any t
 
 |Date| Topic | Speaker| Notes | References
 |:----| :----: | :----:| :----: | ----: |
-| Sep 1$$^*$$ | An Overview of the proof of Fermat | Niven Achenjang | [here]({{ '/assets/pdf/FLT_Overview_Notes.pdf' | relative_url}}) | [FLT, Chap 1]
-| Sep 15 | Galois representations associated to modular forms | [Vijay Srinivasan](https://math.mit.edu/~vijayrs/) | | [BCdS+, Chaps 4,5,10]
+| Sep 1$$^*$$ | An Overview of the proof of Fermat | [Niven Achenjang](.) | [here]({{ '/assets/pdf/FLT_Overview_Notes.pdf' | relative_url}}) | [FLT, Chap 1]
+| Sep 15 | Galois representations associated to modular forms | [Vijay Srinivasan](https://math.mit.edu/~vijayrs/) | [here]({{ '/assets/pdf/from_others/Galois_representations_associated_to_modular_forms.pdf' | relative_url}}) | [BCdS+, Chaps 4,5,10]
 | Sep 22 | Langlands-Tunnell, part I | Kenta Suzuki |  | [FLT, Chap 6]
-| Sep 29? | Langlands-Tunnell, part II | [Grant Barkley](https://people.math.harvard.edu/~barkley/) | | [FLT, Chap 6]
-| ??? | Serre's (epsilon) Conjecture and Ribet's Proof | Dylan Pentland | | [FLT, Chap 7]
+| Sep 29 | Langlands-Tunnell, part II | ??? | | [FLT, Chap 6]
+| Oct 06? | Serre's (epsilon) Conjecture and Ribet's Proof | Dylan Pentland | | [FLT, Chap 7]
 | ??? | Intro to Galois Deformations | ??? | | [Gee], [DDT, Chap 2],<br> [FLT, Chap 8]
 
 <br>
@@ -45,5 +45,20 @@ $$^\dagger$$ If you want to speak for longer, that's fine too; just let me know 
 <br>
 [BCdS+] D. Bump, J. W. Cogdell, E. de Shalit, D. Gaitsgory, E. Kowalski, S. S. Kudla, "[An Introduction to the Langlands Program](https://link.springer.com/book/10.1007/978-0-8176-8226-2)"
 
-In addition to these, some of the notes in the following links might be useful for various aspects of things: [1](http://virtualmath1.stanford.edu/~conrad/modseminar/), [2](https://wstein.org/papers/serre/ribet-stein.pdf), [3](https://math.uchicago.edu/~galporat/Modularity%20lifting%20theorems%20and%20the%20case%20of%20GL1.pdf)
-(I'll add more as I discover more)
+There are lectures videos attached to Gee's notes on the [AWS website](https://swc-math.github.io/aws/2013/index.html).
+
+### Additional Helpful Notes
+
+I haven't read most of these, but they could be useful if you want further sources.
+
+[Stanford modularity lifting seminar](http://virtualmath1.stanford.edu/~conrad/modseminar/)
+<br>
+[Lectures on Serre's conjectures](https://wstein.org/papers/serre/ribet-stein.pdf) 
+<br>
+[Notes on CFT via modularity lifting](https://math.uchicago.edu/~galporat/Modularity%20lifting%20theorems%20and%20the%20case%20of%20GL1.pdf) 
+<br>
+[Notes associating Artin representations to weight one modular forms](http://stnb.cat/media/xerrades/articles/Rep_Galois_Cap2.pdf)
+<br>
+[Elliptic Curves and the Weil-Deligne Group](https://math.berkeley.edu/~dyott/Elliptic%20Curves%20and%20the%20Weil-Deligne%20Group.pdf)
+
+(I'll keep adding more as I discover more)
