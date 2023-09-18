@@ -4,6 +4,7 @@ title: Modularity/Fermat Seminar
 description: A learning seminar on Fermat's Last Theorem, modularity of (semistable) elliptic curves, and whatever other related topics come up along the way.
 img: fermat.png
 year: 2023
+has_math: true
 ---
 
 This is a learning seminar on the proof of Fermat's Last Theorem and on modularity of elliptic curves. The main goal is to hopefully address the question, "How on Earth does one prove that some representation is modular?" Our main source will be [the big book](https://link.springer.com/book/10.1007/978-1-4612-1974-3) "Modular Forms and Fermat's Last Theorem'' edited by Cornell, Silverman, and Stevens, but we will use other sources as well (see below).
@@ -25,7 +26,7 @@ My goal is to keep the schedule flexible (only the next 2-3 talks fixed at any t
 |:----| :----: | :----:| :----: | ----: |
 | Sep 1$$^*$$ | An Overview of the proof of Fermat | [Niven Achenjang](.) | [here]({{ '/assets/pdf/FLT_Overview_Notes.pdf' | relative_url}}) | [FLT, Chap 1]
 | Sep 15 | Galois representations associated to modular forms | [Vijay Srinivasan](https://math.mit.edu/~vijayrs/) | [here]({{ '/assets/pdf/from_others/Galois_representations_associated_to_modular_forms.pdf' | relative_url}}) | [BCdS+, Chaps 4,5,10]
-| Sep 22 | Langlands-Tunnell, part I | Kenta Suzuki |  | [FLT, Chap 6, lecture 2]
+| Sep 22 | Langlands-Tunnell, part I | Kenta Suzuki | [here]({{ '/assets/pdf/from_others/langlands_tunnell_talk.pdf' | relative_url }}) | [FLT, Chap 6, lecture 2],<br> [BH, Section 33]
 | Sep 29 | Langlands-Tunnell, part II | Daniel Hu | | [FLT, Chap 6, lecture 3]
 | Oct 6? | Serre's (epsilon) Conjecture and Ribet's Proof | Dylan Pentland | | [FLT, Chap 7]
 | ??? | Intro to Galois Deformations | ??? | | [Gee], [DDT, Chap 2],<br> [FLT, Chap 8]
@@ -41,11 +42,13 @@ $$^\dagger$$ If you want to speak for longer, that's fine too; just let me know 
 <br>
 [DDT] H. Darmon, F. Diamond, and R. Taylor, "[Fermat's Last Theorem](https://www.math.mcgill.ca/darmon/pub/Articles/Expository/05.DDT/paper.pdf)"
 <br>
-[Gee] T. Gee, "[Modularity Lifting Theorems](https://arxiv.org/abs/2202.05818)"
+[Gee] T. Gee, "[Modularity Lifting Theorems](https://arxiv.org/abs/2202.05818)" $$^*$$
 <br>
 [BCdS+] D. Bump, J. W. Cogdell, E. de Shalit, D. Gaitsgory, E. Kowalski, S. S. Kudla, "[An Introduction to the Langlands Program](https://link.springer.com/book/10.1007/978-0-8176-8226-2)"
+<br>
+[BH] C. J. Bushnell, G. Henniart, "[The local Langlands conjecture for $$\GL(2)$$](https://link.springer.com/book/10.1007/3-540-31511-X)"
 
-There are lectures videos attached to Gee's notes on the [AWS website](https://swc-math.github.io/aws/2013/index.html).
+$$^*$$There are videos of Gee's lectures on the [AWS website](https://swc-math.github.io/aws/2013/index.html).
 
 ### Additional Helpful Notes
 
@@ -60,5 +63,7 @@ I haven't read most of these, but they could be useful if you want further sourc
 [Notes associating Artin representations to weight one modular forms](http://stnb.cat/media/xerrades/articles/Rep_Galois_Cap2.pdf)
 <br>
 [Elliptic Curves and the Weil-Deligne Group](https://math.berkeley.edu/~dyott/Elliptic%20Curves%20and%20the%20Weil-Deligne%20Group.pdf)
+<br>
+[A tameness criterion for Galois reps associated to modular forms (mod $$p$$)](https://www.math.purdue.edu/~tongliu/seminar/Mlift/Gross.pdf)
 
 (I'll keep adding more as I discover more)

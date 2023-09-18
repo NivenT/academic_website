@@ -6,6 +6,8 @@ $$
 \newcommand\msL{\mathscr L}
 \newcommand\ms{\mathscr}
 
+\newcommand\GL{\opname{GL}}
+
 \newcommand\eps{\varepsilon}
 
 \newcommand\opname{\operatorname}
