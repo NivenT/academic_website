@@ -65,5 +65,11 @@ I haven't read most of these, but they could be useful if you want further sourc
 [Elliptic Curves and the Weil-Deligne Group](https://math.berkeley.edu/~dyott/Elliptic%20Curves%20and%20the%20Weil-Deligne%20Group.pdf)
 <br>
 [A tameness criterion for Galois reps associated to modular forms (mod $$p$$)](https://www.math.purdue.edu/~tongliu/seminar/Mlift/Gross.pdf)
+<br>
+[Notes from an MIT course on modularity lifting/Gee's notes](https://users.math.yale.edu/~rz289/Galois_reps.pdf). The [website](https://math.mit.edu/~swshin/Spring14-18786/problemsets.html) for this course has problem sets (though no lecture notes of its own)
+<br>
+[Notes from a Stanford course on automorphy lifting](https://math.berkeley.edu/~fengt/249A_2018.pdf)
+<br>
+[Taylor-Wiles Patching Lemmas a la Kisin](https://www.math.ucla.edu/~hida/Patch.pdf)
 
 (I'll keep adding more as I discover more)
