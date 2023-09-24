@@ -28,8 +28,10 @@ My goal is to keep the schedule flexible (only the next 2-3 talks fixed at any t
 | Sep 15 | Galois representations associated to modular forms | [Vijay Srinivasan](https://math.mit.edu/~vijayrs/) | [here]({{ '/assets/pdf/from_others/Galois_representations_associated_to_modular_forms.pdf' | relative_url}}) | [BCdS+, Chaps 4,5,10]
 | Sep 22 | Langlands-Tunnell, part I | Kenta Suzuki | [here]({{ '/assets/pdf/from_others/langlands_tunnell_talk.pdf' | relative_url }}) | [FLT, Chap 6, lecture 2],<br> [BH, Section 33]
 | Sep 29 | Langlands-Tunnell, part II | Daniel Hu | | [FLT, Chap 6, lecture 3]
-| Oct 6? | Serre's (epsilon) Conjecture and Ribet's Proof | Dylan Pentland | | [FLT, Chap 7]
-| ??? | Intro to Galois Deformations | ??? | | [Gee], [DDT, Chap 2],<br> [FLT, Chap 8]
+| Oct 6 | Serre's (epsilon) Conjecture and Ribet's Proof | Dylan Pentland | | [FLT, Chap 7]
+| Oct 13 | Galois Deformation Rings &<br>Stating ($$R=T$$)-style theorems | Niven? | | [Gee, Sect 3 up to 3.23], <br>[DDT, Sect 2.6,2.7,3.3]
+| ??? | An overview of the Taylor-Wiles-Kisin method? | ??? | | [Stan, Lect 18, 27],<br>[Hid]
+
 
 <br>
 $$^*$$ at 4:30PM in 2-361
@@ -47,6 +49,14 @@ $$^\dagger$$ If you want to speak for longer, that's fine too; just let me know 
 [BCdS+] D. Bump, J. W. Cogdell, E. de Shalit, D. Gaitsgory, E. Kowalski, S. S. Kudla, "[An Introduction to the Langlands Program](https://link.springer.com/book/10.1007/978-0-8176-8226-2)"
 <br>
 [BH] C. J. Bushnell, G. Henniart, "[The local Langlands conjecture for $$\GL(2)$$](https://link.springer.com/book/10.1007/3-540-31511-X)"
+<br>
+[Kis] M. Kisin, "[Moduli of finite flat group schemes, and modularity](https://annals.math.princeton.edu/wp-content/uploads/annals-v170-n3-p03-p.pdf)"
+<br>
+[CDT] B. Conrad, F. Diamond, R. Taylor, "[Modularity of certain potentially Barsotti-Tate Galois representations](https://www.ams.org/journals/jams/1999-12-02/S0894-0347-99-00287-8/S0894-0347-99-00287-8.pdf)"
+<br>
+[Stan] Too many actual authors to list, "[Stanford modularity lifting seminar](http://virtualmath1.stanford.edu/~conrad/modseminar/)"
+<br>
+[Hid] Hida, "[Taylor-Wiles Patching Lemmas a la Kisin](https://www.math.ucla.edu/~hida/Patch.pdf)"
 
 $$^*$$There are videos of Gee's lectures on the [AWS website](https://swc-math.github.io/aws/2013/index.html).
 
@@ -54,8 +64,6 @@ $$^*$$There are videos of Gee's lectures on the [AWS website](https://swc-math.g
 
 I haven't read most of these, but they could be useful if you want further sources.
 
-[Stanford modularity lifting seminar](http://virtualmath1.stanford.edu/~conrad/modseminar/)
-<br>
 [Lectures on Serre's conjectures](https://wstein.org/papers/serre/ribet-stein.pdf) 
 <br>
 [Notes on CFT via modularity lifting](https://math.uchicago.edu/~galporat/Modularity%20lifting%20theorems%20and%20the%20case%20of%20GL1.pdf) 
@@ -69,8 +77,6 @@ I haven't read most of these, but they could be useful if you want further sourc
 [Notes from an MIT course on modularity lifting/Gee's notes](https://users.math.yale.edu/~rz289/Galois_reps.pdf).$$^*$$ 
 <br>
 [Notes from a Stanford course on automorphy lifting](https://math.berkeley.edu/~fengt/249A_2018.pdf)
-<br>
-[Taylor-Wiles Patching Lemmas a la Kisin](https://www.math.ucla.edu/~hida/Patch.pdf)
 
 (I'll keep adding more as I discover more)
 
