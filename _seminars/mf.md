@@ -27,10 +27,10 @@ My goal is to keep the schedule flexible (only the next 2-3 talks fixed at any t
 | Sep 1$$^*$$ | An Overview of the proof of Fermat | [Niven Achenjang](.) | [here]({{ '/assets/pdf/FLT_Overview_Notes.pdf' | relative_url}}) | [FLT, Chap 1]
 | Sep 15 | Galois representations associated to modular forms | [Vijay Srinivasan](https://math.mit.edu/~vijayrs/) | [here]({{ '/assets/pdf/from_others/Galois_representations_associated_to_modular_forms.pdf' | relative_url}}) | [BCdS+, Chaps 4,5,10]
 | Sep 22 | Langlands-Tunnell, part I | Kenta Suzuki | [here]({{ '/assets/pdf/from_others/langlands_tunnell_talk.pdf' | relative_url }}) | [FLT, Chap 6, lecture 2],<br> [BH, Section 33]
-| Sep 29 | Langlands-Tunnell, part II | Daniel Hu | | [FLT, Chap 6, lecture 3]
-| Oct 6 | Serre's (epsilon) Conjecture and Ribet's Proof | Dylan Pentland | | [FLT, Chap 7]
-| Oct 13 | Galois Deformation Rings &<br>Stating ($$R=T$$)-style theorems | Niven? | | [Gee, Sect 3 up to 3.23], <br>[DDT, Sect 2.6,2.7,3.3]
-| ??? | An overview of the Taylor-Wiles-Kisin method? | ??? | | [Stan, Lect 18, 27],<br>[Hid]
+| Sep 29 | Langlands-Tunnell, part II | Daniel Hu |[here]({{ '/assets/pdf/from_others/Langlands__Tunnell.pdf' | relative_url}}) | [FLT, Chap 6, lecture 3]
+| Oct 6 | Serre's Conjecture | Dylan Pentland | | [FLT, Chap 7]
+| Oct 13? | Galois Deformation Rings &<br>Stating ($$R=T$$)-style theorems | Niven Achenjang | | [Gee, Sect 3 up to 3.23], <br>[DDT, Sect 2.6,2.7,3.3]
+| ??? | An overview of the Taylor-Wiles-Kisin method? | ??? | | [Stan, Lect 18, 27],<br>[Hida]
 
 
 <br>
@@ -56,7 +56,7 @@ $$^\dagger$$ If you want to speak for longer, that's fine too; just let me know 
 <br>
 [Stan] Too many actual authors to list, "[Stanford modularity lifting seminar](http://virtualmath1.stanford.edu/~conrad/modseminar/)"
 <br>
-[Hid] Hida, "[Taylor-Wiles Patching Lemmas a la Kisin](https://www.math.ucla.edu/~hida/Patch.pdf)"
+[Hida] Hida, "[Taylor-Wiles Patching Lemmas a la Kisin](https://www.math.ucla.edu/~hida/Patch.pdf)"
 
 $$^*$$There are videos of Gee's lectures on the [AWS website](https://swc-math.github.io/aws/2013/index.html).
 
