@@ -31,6 +31,7 @@ My goal is to keep the schedule flexible (only the next 2-3 talks fixed at any t
 | Oct 6 | Serre's Conjecture | Dylan Pentland | | [FLT, Chap 7]
 | Oct 13? | Galois Deformation Rings &<br>Stating ($$R=T$$)-style theorems | Niven Achenjang | | [Gee, Sect 3 up to 3.23], <br>[DDT, Sect 2.6,2.7,3.3]
 | ??? | An overview of the Taylor-Wiles-Kisin method? | ??? | | [Stan, Lect 18, 27],<br>[Hida]
+| ??? | Local deformation rings away from $$p$$? | ??? | | [Stan, Lect 20],<br>[Gee, 3.29]
 
 
 <br>
