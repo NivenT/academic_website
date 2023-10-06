@@ -28,8 +28,8 @@ My goal is to keep the schedule flexible (only the next 2-3 talks fixed at any t
 | Sep 15 | Galois representations associated to modular forms | [Vijay Srinivasan](https://math.mit.edu/~vijayrs/) | [here]({{ '/assets/pdf/from_others/Galois_representations_associated_to_modular_forms.pdf' | relative_url}}) | [BCdS+, Chaps 4,5,10]
 | Sep 22 | Langlands-Tunnell, part I | Kenta Suzuki | [here]({{ '/assets/pdf/from_others/langlands_tunnell_talk.pdf' | relative_url }}) | [FLT, Chap 6, lecture 2],<br> [BH, Section 33]
 | Sep 29 | Langlands-Tunnell, part II | Daniel Hu |[here]({{ '/assets/pdf/from_others/Langlands__Tunnell.pdf' | relative_url}}) | [FLT, Chap 6, lecture 3]
-| Oct 6 | Serre's Conjecture | Dylan Pentland | | [FLT, Chap 7]
-| Oct 13? | Galois Deformation Rings &<br>Stating ($$R=T$$)-style theorems | Niven Achenjang | | [Gee, Sect 3 up to 3.23], <br>[DDT, Sect 2.6,2.7,3.3]
+| Oct 6 | Serre's Conjecture | Dylan Pentland |[here]({{ '/assets/pdf/from_others/Serre_s_Conjecture.pdf' | relative_rul}}) | [FLT, Chap 7]
+| Oct 13 | Galois Deformation Rings &<br>Stating ($$R=T$$)-style theorems | Niven Achenjang | | [Gee, Sect 3 up to 3.23], <br>[DDT, Sect 2.6,2.7,3.3]
 | ??? | An overview of the Taylor-Wiles-Kisin method? | ??? | | [Stan, Lect 18, 27],<br>[Hida]
 | ??? | Local deformation rings away from $$p$$? | ??? | | [Stan, Lect 20],<br>[Gee, 3.29]
 
@@ -58,8 +58,11 @@ $$^\dagger$$ If you want to speak for longer, that's fine too; just let me know 
 [Stan] Too many actual authors to list, "[Stanford modularity lifting seminar](http://virtualmath1.stanford.edu/~conrad/modseminar/)"
 <br>
 [Hida] Hida, "[Taylor-Wiles Patching Lemmas a la Kisin](https://www.math.ucla.edu/~hida/Patch.pdf)"
+<br>
+[BBD+] L. Berger, G. Böckle, L. Dembélé, M. Dimitrov, T. Dokchitser, J. Voight, "[Elliptic Curves, Hilbert Modular Forms and Galois Deformations](https://link.springer.com/book/10.1007/978-3-0348-0618-3)" 
 
 $$^*$$There are videos of Gee's lectures on the [AWS website](https://swc-math.github.io/aws/2013/index.html).
+
 
 ### Additional Helpful Notes
 
@@ -78,6 +81,8 @@ I haven't read most of these, but they could be useful if you want further sourc
 [Notes from an MIT course on modularity lifting/Gee's notes](https://users.math.yale.edu/~rz289/Galois_reps.pdf).$$^*$$ 
 <br>
 [Notes from a Stanford course on automorphy lifting](https://math.berkeley.edu/~fengt/249A_2018.pdf)
+<br>
+[Lectures on Deformations of Galois Representations](https://web.archive.org/web/20230516014712/https://www.claymath.org/sites/default/files/kisin.pdf)
 
 (I'll keep adding more as I discover more)
 
