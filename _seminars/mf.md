@@ -28,7 +28,7 @@ My goal is to keep the schedule flexible (only the next 2-3 talks fixed at any t
 | Sep 15 | Galois representations associated to modular forms | [Vijay Srinivasan](https://math.mit.edu/~vijayrs/) | [here]({{ '/assets/pdf/from_others/Galois_representations_associated_to_modular_forms.pdf' | relative_url}}) | [BCdS+, Chaps 4,5,10]
 | Sep 22 | Langlands-Tunnell, part I | Kenta Suzuki | [here]({{ '/assets/pdf/from_others/langlands_tunnell_talk.pdf' | relative_url }}) | [FLT, Chap 6, lecture 2],<br> [BH, Section 33]
 | Sep 29 | Langlands-Tunnell, part II | Daniel Hu |[here]({{ '/assets/pdf/from_others/Langlands__Tunnell.pdf' | relative_url}}) | [FLT, Chap 6, lecture 3]
-| Oct 6 | Serre's Conjecture | Dylan Pentland |[here]({{ '/assets/pdf/from_others/Serre_Conjecture.pdf' | relative_rul}}) | [FLT, Chap 7]
+| Oct 6 | Serre's Conjecture | Dylan Pentland |[here]({{ '/assets/pdf/from_others/Serre_Conjecture.pdf' | relative_url }}) | [FLT, Chap 7]
 | Oct 13 | Galois Deformation Rings &<br>Stating ($$R=T$$)-style theorems | Niven Achenjang | | [Gee, Sect 3 up to 3.23], <br>[DDT, Sect 2.6,2.7,3.3]
 | ??? | An overview of the Taylor-Wiles-Kisin method? | ??? | | [Stan, Lect 18, 27],<br>[Hida]
 | ??? | Local deformation rings away from $$p$$? | ??? | | [Stan, Lect 20],<br>[Gee, 3.29]
