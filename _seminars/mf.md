@@ -29,7 +29,7 @@ My goal is to keep the schedule flexible (only the next 2-3 talks fixed at any t
 | Sep 22 | Langlands-Tunnell, part I | Kenta Suzuki | [here]({{ '/assets/pdf/from_others/langlands_tunnell_talk.pdf' | relative_url }}) | [FLT, Chap 6, lecture 2],<br> [BH, Section 33]
 | Sep 29 | Langlands-Tunnell, part II | Daniel Hu |[here]({{ '/assets/pdf/from_others/Langlands__Tunnell.pdf' | relative_url}}) | [FLT, Chap 6, lecture 3]
 | Oct 6 | Serre's Conjecture | Dylan Pentland |[here]({{ '/assets/pdf/from_others/Serre_Conjecture.pdf' | relative_url }}) | [FLT, Chap 7]
-| Oct 13 | Galois Deformation Rings &<br>Stating ($$R=T$$)-style theorems | Niven Achenjang | | [Gee, Sect 3 up to 3.23], <br>[DDT, Sect 2.6,2.7,3.3]
+| Oct 13 | Galois Deformation Rings &<br>Stating ($$R=T$$)-style theorems | Niven Achenjang | [here]({{ '/assets/pdf/Galois_Def_Notes.pdf' | relative_url }}) | [Gee, Sect 3 up to 3.23], <br>[DDT, Sect 2.6,2.7,3.3]
 | ??? | An overview of the Taylor-Wiles-Kisin method? | ??? | | [Stan, Lect 18, 27],<br>[Hida]
 | ??? | Local deformation rings away from $$p$$? | ??? | | [Stan, Lect 20],<br>[Gee, 3.29]
 
@@ -68,6 +68,8 @@ $$^*$$There are videos of Gee's lectures on the [AWS website](https://swc-math.g
 
 I haven't read most of these, but they could be useful if you want further sources.
 
+[Recordings of the Conference on which [FLT] is based](https://www.youtube.com/playlist?list=PL_jwwOG0kPgPNUaODd32I59XGZZAXJ7oj)
+<br>
 [Lectures on Serre's conjectures](https://wstein.org/papers/serre/ribet-stein.pdf) 
 <br>
 [Notes on CFT via modularity lifting](https://math.uchicago.edu/~galporat/Modularity%20lifting%20theorems%20and%20the%20case%20of%20GL1.pdf) 
