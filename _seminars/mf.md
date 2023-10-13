@@ -29,7 +29,7 @@ My goal is to keep the schedule flexible (only the next 2-3 talks fixed at any t
 | Sep 22 | Langlands-Tunnell, part I | Kenta Suzuki | [here]({{ '/assets/pdf/from_others/langlands_tunnell_talk.pdf' | relative_url }}) | [FLT, Chap 6, lecture 2],<br> [BH, Section 33]
 | Sep 29 | Langlands-Tunnell, part II | Daniel Hu |[here]({{ '/assets/pdf/from_others/Langlands__Tunnell.pdf' | relative_url}}) | [FLT, Chap 6, lecture 3]
 | Oct 6 | Serre's Conjecture | Dylan Pentland |[here]({{ '/assets/pdf/from_others/Serre_Conjecture.pdf' | relative_url }}) | [FLT, Chap 7]
-| Oct 13 | Galois Deformation Rings &<br>Stating ($$R=\mathbb T$$)-style theorems | Niven Achenjang | [here]({{ '/assets/pdf/Galois_Def_Notes.pdf' | relative_url }}) | [Gee, Sect 3 up to 3.23], <br>[DDT, Sect 2.6,2.7,3.3]
+| Oct 13 | Galois Deformation Rings &<br>Stating $$R=\T$$ theorems | Niven Achenjang | [here]({{ '/assets/pdf/Galois_Def_Notes.pdf' | relative_url }}) | [Gee, Sect 3 up to 3.23], <br>[DDT, Sect 2.6,2.7,3.3]
 | Oct 20 | $$R=\mathbb T$$ for Galois characters | [Grant Barkley](https://people.math.harvard.edu/~barkley/) | | [Cal, Sect 2]
 | ??? | An overview of the Taylor-Wiles-Kisin method? | ??? | | [Stan, Lect 18, 27],<br>[Hida]
 | ??? | More Galois deformation theory | ??? | | [Gee, Sect 3.23+]

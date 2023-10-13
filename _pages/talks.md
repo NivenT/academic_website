@@ -5,6 +5,7 @@ title: talks
 description: Here is a list of more-or-less every talk I've ever given.
 types: [Conference Talks, Seminar Talks, Other Talks]
 nav: true
+has_math: true
 importance: 9
 ---
 

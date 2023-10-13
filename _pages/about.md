@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 description: Welcome
+has_math: true
 
 profile:
   align: right
