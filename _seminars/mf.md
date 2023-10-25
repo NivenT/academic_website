@@ -31,16 +31,20 @@ My goal is to keep the schedule flexible (only the next 2-3 talks fixed at any t
 | Oct 6 | Serre's Conjecture | Dylan Pentland |[here]({{ '/assets/pdf/from_others/Serre_Conjecture.pdf' | relative_url }}) | [FLT, Chap 7]
 | Oct 13 | Galois Deformation Rings &<br>Stating $$R=\T$$ theorems | Niven Achenjang | [here]({{ '/assets/pdf/Galois_Def_Notes.pdf' | relative_url }}) | [Gee, Sect 3 up to 3.23], <br>[DDT, Sect 2.6,2.7,3.3]
 | Oct 20 | $$R=\mathbb T$$ for Galois characters | [Grant Barkley](https://people.math.harvard.edu/~barkley/) | | [Cal, Sect 2]
-| ??? | An overview of the Taylor-Wiles-Kisin method? | ??? | | [Stan, Lect 18, 27],<br>[Hida]
-| ??? | More Galois deformation theory | ??? | | [Gee, Sect 3.23+]
-| ??? | Structure of Hecke algebras? | ??? | | [FLT, Chap 10]
-| ??? | Local deformation rings away from $$p$$? | ??? | | [Stan, Lect 20],<br>[Gee, 3.29]
-
+| Oct 27 | Tangent spaces of deformation problems | Daniel Hu | | [Gee, Sect 3.23+]
+| Nov 3? | Taylor-Wiles Deformations | | | [Gee, Sect 3.32+]
+| Nov 10? | Local deformation rings away at $$p$$ |  | | [Gee, 3.27-3.31],<br>[Stan, Lect 21]
+| Nov 17? | Automorphic forms for quaternion algebras I | | | [Gee, Sect 4]
+| ???$$^\ddagger$$  | Automorphic forms for quaternion algebras II | | | [Gee, Sect 4]
+| Dec 1? | Proof of [Gee, Theorem 5.2] I | | | [Gee, Sect 5]
+| Dec 8? | Proof of [Gee, Theorem 5.2] II | | | [Gee, Sect 5]
 
 <br>
 $$^*$$ at 4:30PM in 2-361
 <br>
 $$^\dagger$$ If you want to speak for longer, that's fine too; just let me know ahead of time. The main motivations for the default format are to leave room for plenty of audience participation and to not stress out the speaker if they end up having a lot going on around the time their talk is coming up.
+<br>
+$$^\ddagger$$ I imagine one talk won't be enough to adequately cover what all we need from section 4, but also I don't want to have a talk during Thanksgiving week. So maybe what I'll do is just ask everyone to read section 4 on their own.
 
 ## Sources
 
