@@ -33,9 +33,9 @@ My goal is to keep the schedule flexible (only the next 2-3 talks fixed at any t
 | Oct 20 | $$R=\mathbb T$$ for Galois characters | [Grant Barkley](https://people.math.harvard.edu/~barkley/) | [here]({{ '/assets/pdf/from_others/RequalsT.pdf' | relative_url }}) | [Cal, Sect 2]
 | Oct 27 | Tangent spaces of deformation problems | Daniel Hu | [here]({{ '/assets/pdf/from_others/Deformation_rings.pdf' | relative_url }}) | [Gee, Sect 3.23+]
 | Nov 3 | Taylor-Wiles Deformations | Kenta Suzuki | [here]({{ '/assets/pdf/from_others/taylor-wiles-deformation.pdf' | relative_url }}) | [Gee, Sect 3.32+]
-| Nov 10 | Local deformation rings at $$p$$ |  | | [Gee, 3.27-3.31],<br>[Stan, Lect 21]
-| Nov 17 | Automorphic forms for quaternion algebras I | | | [Gee, Sect 4]
-| ???$$^\ddagger$$  | Automorphic forms for quaternion algebras II | | | [Gee, Sect 4]
+| Nov 10 | ~~Local deformation rings at $$p$$~~ | N/A | N/A | [Gee, 3.27-3.31],<br>[Stan, Lect 21]
+| Nov 17 | Automorphic forms for quaternion algebras I | Niven Achenjang | [here]({{ '/assets/pdf/Automorphic_Forms_for_Quaternion_Algebras_Notes.pdf' | relative_url }}) | [Gee, Sect 4]
+| ???$$^\ddagger$$  | ~~Automorphic forms for quaternion algebras II~~ | N/A | N/A | [Gee, Sect 4]
 | Dec 1 | Proof of [Gee, Theorem 5.2] I | [John Sim](https://simjhsim.com/) | | [Gee, Sect 5]
 | Dec 8 | Proof of [Gee, Theorem 5.2] II | Eunsu Hur | | [Gee, Sect 5]
 
