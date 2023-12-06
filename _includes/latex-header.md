@@ -1,4 +1,6 @@
 $$
+\DeclareMathAlphabet{\matheuler}{U}{eus}{m}{n}
+
 \newcommand\F{\mathbb F}
 \newcommand\P{\mathbb P}
 \newcommand\A{\mathbb A}
