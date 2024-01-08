@@ -14,6 +14,7 @@ importance: 9
 {% for t in page.types %}
   <h2 class="year">{{t}}</h2>
   <br>
+  <br>
   {% assign talks = site.talks | where: "type", t | sort: "date" | reverse %}
   <ul>
   {% for talk in talks %}
@@ -34,11 +35,14 @@ importance: 9
         </i>,
         {{talk.location}} - {{talk.date | date: "%b %Y"}}
     </li>
+    {% if talk.paper %}
+        This was based on the work in <a href="{{ talk.paper }}">this paper</a>.
+    {% endif %}
     {% if talk.notes %}
         I wrote notes for this talk, which you can find <a href="{{ '/assets/pdf' | relative_url}}/{{talk.notes}}">here</a>.
     {% endif %}
-    {% if talk.paper %}
-        This talk was on work which can be found in <a href="{{ talk.paper }}">this paper</a>.
+    {% if talk.slides %}
+        My slides can be found <a href="{{ '/assets/pdf/slides' | relative_rul}}/{{talk.slides}}">here</a>.
     {% endif %}
     <div style="margin-bottom:10px"></div>
   {% endfor %}
