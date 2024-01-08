@@ -78,6 +78,22 @@ blockquote {
       margin: 0;
     }
   }
+
+  .container {
+      position: relative;
+  }
+
+  img {
+      width: 100%;
+  }
+
+  button {
+      position: absolute;
+      background: transparent;
+      font-size: 0;
+      border: 0px;
+      //border: 1px solid blue;
+  }
 }
 
 @media (min-width: 576px) {

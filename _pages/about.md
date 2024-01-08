@@ -9,6 +9,11 @@ profile:
   align: right
   image: prof_pic.jpg
   address: 
+  boop:
+    left: 45%
+    top: 25%
+    width: 8%
+    height: 12%
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

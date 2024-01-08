@@ -26,7 +26,13 @@ layout: default
     {% if page.profile %}
     <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
       {% if page.profile.image %}
-        <img class="img-fluid z-depth-1 rounded" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">
+        <div class="container">
+          <img class="img-fluid z-depth-1 rounded" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">
+          {% if page.profile.boop %}
+            <button id="boop-btn"
+                    style="left:{{ page.profile.boop.left}}; top:{{ page.profile.boop.top}}; width:{{ page.profile.boop.width}}; height:{{ page.profile.boop.height}}"></button>
+          {% endif %}
+        </div>
       {% endif %}
       {% if page.profile.address %}
         <div class="address">
@@ -59,3 +65,11 @@ layout: default
   </article>
 
 </div>
+
+<script type="text/javascript">
+  $(document).ready(() => {
+    var btn = document.getElementById("boop-btn");
+    if (!btn) return;
+    btn.addEventListener("click", () => { alert("Boop!"); }, false);
+  });
+</script>
