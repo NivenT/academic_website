@@ -3,7 +3,7 @@ layout: page
 permalink: /talks/
 title: talks
 description: Here is a list of more-or-less every talk I've ever given.
-types: [Conference Talks, Seminar Talks, Other Talks]
+types: [Conference Talks, Research Seminar Talks, Learning Seminar Talks, Other Talks]
 nav: true
 has_math: true
 importance: 9
@@ -42,7 +42,7 @@ importance: 9
         I wrote notes for this talk, which you can find <a href="{{ '/assets/pdf' | relative_url}}/{{talk.notes}}">here</a>.
     {% endif %}
     {% if talk.slides %}
-        My slides can be found <a href="{{ '/assets/pdf/slides' | relative_rul}}/{{talk.slides}}">here</a>.
+        My slides can be found <a href="{{ '/assets/pdf/slides' | relative_url}}/{{talk.slides}}">here</a>.
     {% endif %}
     <div style="margin-bottom:10px"></div>
   {% endfor %}
