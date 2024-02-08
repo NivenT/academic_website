@@ -1,9 +1,8 @@
 ---
 layout: post
-date: 2024-04-01
+date: 2024-04-02
 inline: true
 related_posts: false
-skip: true
 ---
 
-I will be travelling to Seattle to give a talk on some recent work related to Selmer group statistics in bad characteristic. 
+I will be travelling to Seattle to talk in [UW's Number Theory Seminar](https://math.washington.edu/events/series/number-theory-seminar). Exactly what I will talk about is still TBD.
