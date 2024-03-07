@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.mit.edu/~NivenT/sitemap.xml
+Sitemap: http://localhost:4000/~NivenT/sitemap.xml
