@@ -9,6 +9,14 @@ link: https://www.youtube.com/results?search_query=stanford+jump+rope
 ---
 
 As an undergrad, I was on Stanford's jump rope team. We put on performances in and around campus, and you can find some videos of the team if you search Youtube or Instagram.
+
+Below is a video I am particularly fond of. It is my closest attempt at landing a routine (which starts at 0:28) that I was working on for a while during my early years of grad school.
+
+<video width="240"  controls>
+    <source src="{{ '/assets/vid/' | relative_url}}/jump.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
 <div style="color:var(--global-bg-color);">
     Here is a <a style="color:var(--global-bg-color);" href="{{ '/assets/vid/' | relative_url}}/jump.mp4">video</a> of a routine (starts at 0:28) I was working on for a while in early grad school, but never managed to land.
 </div>
