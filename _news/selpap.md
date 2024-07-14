@@ -6,4 +6,4 @@ related_posts: false
 has_math: true
 ---
 
-I posted a [new paper](https://arxiv.org/abs/2310.08493) on arxiv. It is about bounding the average size of $$2$$-Selmer groups of elliptic curves $$E$$ over characteristic $$2$$ function fields. It also produces some new bounds on $$\dim_{\F_2}\Sel_2(E/K)$$ when $$\Char K=2$$ (and $$K$$ is a global function field).
+I posted a [new paper](https://arxiv.org/abs/2310.08493) on arxiv. It is about bounding the average size of $$2$$-Selmer groups of elliptic curves $$E$$ over characteristic $$2$$ function fields. One aesthetically pleasing consequence of this work is that it completes the proof that the average rank of elliptic curves over $$K$$ is finite, for any global field $$K$$.
