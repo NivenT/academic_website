@@ -17,7 +17,7 @@ importance: 9
   <ul>
   {% for note in notes %}
     <li> 
-        <a href="{{ '/assets/pdf/' | relative_url }}/{{ note.pdf }}">{{note.title}}</a> 
+        <a href="{{ '/assets/pdf' | relative_url }}/{{ note.pdf }}">{{note.title}}</a> 
     </li>
     {{note.content}}
     <div style="margin-bottom:10px"></div>

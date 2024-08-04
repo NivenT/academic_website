@@ -25,5 +25,5 @@ You can find my cv [here]({{ '/assets/pdf/cv.pdf' | relative_url}}).
 
 Fun fact: if you press the moon/sun in the top right, you can switch between light/dark themes for this site.
 <div style="color:var(--global-bg-color);">
-    There are many hidden secrets on this site. Try and find them all.
+    There are many hidden secrets on this site. Try and find them all (seems some of them are less hidden on mobile...).
 </div>
