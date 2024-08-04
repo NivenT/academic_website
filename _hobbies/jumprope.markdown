@@ -18,5 +18,5 @@ Below is a video I am particularly fond of. It is my closest attempt at landing 
 </video>
 
 <div style="color:var(--global-bg-color);">
-    Here is a <a style="color:var(--global-bg-color);" href="{{ '/assets/vid/' | relative_url}}/jump.mp4">video</a> of a routine (starts at 0:28) I was working on for a while in early grad school, but never managed to land.
+    I also have a couple double dutch videos from my time at Stanford that I'm proud of. I pulled these from the <a style="color:var(--global-bg-color);" href="https://www.instagram.com/stanfordjumprope/?hl=en">Stanford jump rope Instagram account</a>. There is one of me doing a <a style="color:var(--global-bg-color);" href="{{ 'assets/vid' | relative_url}}/DD_kip.mp4">handstand kip</a> and one of me doing a <a style="color:var(--global-bg-color);" href="{{ 'assets/vid' | relative_url}}/DD_flip.mp4">flip</a>.
 </div>
