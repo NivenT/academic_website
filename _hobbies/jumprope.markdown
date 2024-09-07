@@ -13,7 +13,7 @@ As an undergrad, I was on Stanford's jump rope team. We put on performances in a
 Below is a video I am particularly fond of. It is my closest attempt at landing a routine (which starts at 0:28) that I was working on for a while during my early years of grad school.
 
 <video width="240"  controls>
-    <source src="{{ '/assets/vid/' | relative_url}}/jump.mp4" type="video/mp4">
+    <source src="{{ '/assets/vid' | relative_url}}/jump.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
