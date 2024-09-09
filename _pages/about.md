@@ -23,7 +23,7 @@ I am a math grad student at MIT, broadly interested in arithmetic geometry and e
 
 Recently, I have most actively thinking about Brauer groups of stacky curves, but you can find more information on my research in my [cv]({{ '/assets/pdf/cv.pdf' | relative_url}}) (and probably also under the "news" header below).
 
-<b>I am currently on the job market, and am very happy to come talk about my work!</b>
+<b>I am currently on the job market and am very happy to come talk about my work!</b>
 
 Fun fact: if you press the moon/sun in the top right, you can switch between light/dark themes for this site.
 <div style="color:var(--global-bg-color);">
