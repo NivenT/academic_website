@@ -44,7 +44,10 @@ importance: 9
     {% if talk.slides %}
         My slides can be found <a href="{{ '/assets/pdf/slides' | relative_url}}/{{talk.slides}}">here</a>.
     {% endif %}
-    <div style="margin-bottom:10px"></div>
+    {% if talk.abstract %}
+        I wrote an extended abstract for this talk, which you can find <a href="{{ '/assets/pdf/abstracts' | relative_url}}/{{talk.abstract}}">here</a>.
+    {% endif %}
+    <div style="margin-bottom:15px"></div>
   {% endfor %}
   </ul>
 {% endfor %}

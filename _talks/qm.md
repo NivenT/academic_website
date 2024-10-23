@@ -6,4 +6,6 @@ type: Conference Talks
 seminar: Québec-Maine Number Theory Conference
 seminarpage: https://maine-quebec.mat.ulaval.ca/24/qm24.html
 location: Laval University
+slides: qm24.pdf
+paper: https://arxiv.org/abs/2410.06217
 ---
