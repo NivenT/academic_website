@@ -19,13 +19,13 @@ importance: 9
   <ul>
   {% for talk in talks %}
     <li> 
-        '<b>
+        <b>
             {% if talk.researchseminars %}
                 <a href="{{ talk.researchseminars }}">{{talk.title}}</a>
             {% else %}
                 {{talk.title}}
             {% endif %}
-        </b>', 
+        </b>, 
         <i>
             {% if talk.seminarpage %}
                 <a href="{{ talk.seminarpage }}">{{talk.seminar}}</a>
