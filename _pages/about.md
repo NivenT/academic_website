@@ -19,7 +19,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a math grad student at MIT working with [Bjorn Poonen](https://math.mit.edu/~poonen/) and broadly interested in arithmetic geometry and especially in points on varieties. Recently, I have most actively thinking about Brauer groups of stacky curves, but I have also studied some "bad characteristic" statistics of ranks of elliptic curves and have some finiteness results for integral points on high dimensional varieites. 
+I am a math grad student at MIT working with [Bjorn Poonen](https://math.mit.edu/~poonen/) and broadly interested in arithmetic geometry and especially in points on varieties. Recently, I have most actively been thinking about Brauer groups of stacky curves, but I have also studied some "bad characteristic" statistics of ranks of elliptic curves and have some finiteness results for integral points on high dimensional varieites. 
 
 You can find more information about my research in my [cv]({{ '/assets/pdf/cv.pdf' | relative_url}}) or under the "news" header below.
 
