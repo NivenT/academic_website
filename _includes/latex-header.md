@@ -5,6 +5,7 @@ $$
 \newcommand\P{\mathbb P}
 \newcommand\A{\mathbb A}
 \newcommand\T{\mathbb T}
+\newcommand\Z{\mathbb Z}
 \newcommand\msO{\mathscr O}
 \newcommand\msL{\mathscr L}
 \newcommand\ms{\mathscr}
@@ -20,6 +21,8 @@ $$
 \newcommand\Char{\opname{char}}
 \newcommand\Hom{\opname{Hom}}
 \newcommand\Sel{\opname{Sel}}
+
+\newcommand\too{\longrightarrow}
 
 \newcommand\inv[2][1]{#2^{-#1}}
 \newcommand\pinv[2][1]{\inv[#1]{\p{#2}}}

@@ -1,0 +1,8 @@
+---
+title: Algebraic degeneracy notes
+importance: -5
+type: Notes for Talks
+pdf: Hyperbolicity_Talk.pdf
+---
+
+Notes on a talk going over a general criterion for ensuring that every entire curve in a compact complex manifold must land in some (a priori fixed) proper submanifold.

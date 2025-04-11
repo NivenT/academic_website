@@ -4,7 +4,7 @@ title: seminars
 permalink: /seminars/
 description: Some seminars I have (helped) organize.
 nav: true
-years: [2023]
+years: [2025, 2023]
 horizontal: false
 ---
 
