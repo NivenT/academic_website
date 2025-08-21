@@ -48,6 +48,25 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
 
 
+<!-- bigfootjs.com -->
+<script type="text/javascript" src="/~NivenT/assets/js//bigfoot.js"></script>
+<script type="text/javascript">
+    $.bigfoot({
+      positionContent: true,
+      // https://esham.io/2014/07/mathjax-and-bigfoot
+      activateCallback: function($popover, $button) {
+        if (MathJax && !$button.data('mathjax-processed')) {
+            var content_wrapper = $popover.find('.bigfoot-footnote__content')[0];
+            MathJax.Hub.Queue(['Typeset', MathJax.Hub, content_wrapper]);
+            MathJax.Hub.Queue(function () {
+                $button.attr('data-bigfoot-footnote', content_wrapper.innerHTML);
+                $button.data('mathjax-processed', true);
+            });
+        }
+    }
+    });
+</script>
+
 <!-- Theming-->
 
 <script src="/~NivenT/assets/js/theme.js"></script>
@@ -168,6 +187,13 @@ $$
           
           
           
+          <li class="nav-item ">
+              <a class="nav-link" href="/~NivenT/research/">
+                research
+                
+              </a>
+          </li>
+          
           
           
           
@@ -252,13 +278,16 @@ $$
     
 
     <div class="clearfix">
-      <p>I am a math grad student at MIT working with <a href="https://math.mit.edu/~poonen/">Bjorn Poonen</a> and broadly interested in arithmetic geometry and especially in points on varieties. I generally like applying algebro-geometric arguments and cohomology computations in the service of proving finiteness results. I have work on Brauer groups of stacky curves, “bad characteristic” statistics of ranks of elliptic curves, and integral points on high dimensional varieties.</p>
+      <p>Starting Fall 2025, I am a BP and NSF postdoctoral fellow at Harvard, mentored by <a href="https://people.math.harvard.edu/~mmwood/">Melanie Matchett Wood</a>. I completed by PhD at MIT, advised by <a href="https://math.mit.edu/~poonen/">Bjorn Poonen</a>. Ignore the university hosting this website; I’ll fix that at some point…</p>
 
-<p>You can find more information about my research in my <a href="/~NivenT/assets/pdf/cv.pdf">cv</a> or under the “news” header below.</p>
+<p>I am broadly interested in arithmetic geometry, arithmetic statistics, and especially in points on varieties. I generally like applying algebro-geometric arguments and cohomology computations in the service of proving finiteness results. See the <a href="/research">research</a> tab for more on my work.</p>
+
+<p>You can find more information about me and my work in my <a href="/~NivenT/assets/pdf/cv.pdf">cv</a> or under the “news” header below.</p>
 
 <p>Fun fact: if you press the moon/sun in the top right, you can switch between light/dark themes for this site.</p>
 <div style="color:var(--global-bg-color);">
-    There are many hidden secrets on this site. Try and find them all (seems some of them are less hidden on mobile...).
+    There are many hidden secrets on this site. Try and find them all (seems some of them are less hidden on mobile...
+    
 </div>
 
     </div>
@@ -364,7 +393,7 @@ $$
 
     
       <div class="publications">
-  <h2><!-- selected -->publications</h2>
+  <h2>some papers</h2>
   <ol class="bibliography"><li><div class="row">
   <div class="col-sm-2 abbr">
   
@@ -433,144 +462,6 @@ $$
   <span class="na">url</span> <span class="p">=</span> <span class="s">{https://arxiv.org/abs/2410.06217}</span><span class="p">,</span>
   <span class="na">selected</span> <span class="p">=</span> <span class="s">{true}</span><span class="p">,</span>
   <span class="na">arxiv</span> <span class="p">=</span> <span class="s">{2410.06217}</span><span class="p">,</span>
-  <span class="na">journal</span> <span class="p">=</span> <span class="s">{arxiv}</span>
-<span class="p">}</span></code></pre></figure>
-    </div>
-    
-  </div>
-</div>
-</li>
-<li><div class="row">
-  <div class="col-sm-2 abbr">
-  
-    <abbr class="badge">ArXiv</abbr>
-  
-  </div>
-
-  <div id="achenjang2023brauer" class="col-sm-8">
-    
-      <div class="title">The Brauer Group of \(\mathscr Y_0(2)\)</div>
-      <div class="author">
-        
-          
-          
-          
-          
-          
-          
-            
-              
-                
-                  Achenjang, Niven,
-                
-              
-            
-          
-        
-          
-          
-          
-          
-          
-          
-            
-              
-                
-                  Bhamidipati, Deewang,
-                
-              
-            
-          
-        
-          
-          
-          
-          
-          
-          
-            
-              
-                
-                  Jha, Aashraya,
-                
-              
-            
-          
-        
-          
-          
-          
-          
-          
-          
-            
-              
-                
-                  Ji, Caleb,
-                
-              
-            
-          
-        
-          
-          
-          
-          
-          
-          
-            
-              
-                
-                  and Lopez, Rose
-                
-              
-            
-          
-        
-      </div>
-
-      <div class="periodical">
-      
-      
-        2023
-      
-      </div>
-    
-
-    <div class="links">
-    
-      
-    
-      <a href="http://arxiv.org/abs/2311.18132" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
-    
-    
-        <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
-    
-    
-    
-    
-    
-    
-    
-    
-    </div>
-
-    <!-- Hidden abstract block -->
-    
-
-    <!-- Hidden bibtex block -->
-    
-    <div class="bibtex hidden">
-      <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@misc</span><span class="p">{</span><span class="nl">achenjang2023brauer</span><span class="p">,</span>
-  <span class="na">bibtex_show</span> <span class="p">=</span> <span class="s">{true}</span><span class="p">,</span>
-  <span class="na">title</span> <span class="p">=</span> <span class="s">{The Brauer Group of \(\mathscr {Y}_0(2)\)}</span><span class="p">,</span>
-  <span class="na">author</span> <span class="p">=</span> <span class="s">{Achenjang, Niven and Bhamidipati, Deewang and Jha, Aashraya and Ji, Caleb and Lopez, Rose}</span><span class="p">,</span>
-  <span class="na">year</span> <span class="p">=</span> <span class="s">{2023}</span><span class="p">,</span>
-  <span class="na">eprint</span> <span class="p">=</span> <span class="s">{2311.18132}</span><span class="p">,</span>
-  <span class="na">archiveprefix</span> <span class="p">=</span> <span class="s">{arXiv}</span><span class="p">,</span>
-  <span class="na">primaryclass</span> <span class="p">=</span> <span class="s">{math.AG}</span><span class="p">,</span>
-  <span class="na">selected</span> <span class="p">=</span> <span class="s">{true}</span><span class="p">,</span>
-  <span class="na">arxiv</span> <span class="p">=</span> <span class="s">{2311.18132}</span><span class="p">,</span>
   <span class="na">journal</span> <span class="p">=</span> <span class="s">{arxiv}</span>
 <span class="p">}</span></code></pre></figure>
     </div>
@@ -756,107 +647,6 @@ $$
     
   </div>
 </div>
-</li>
-<li><div class="row">
-  <div class="col-sm-2 abbr">
-  
-    
-    <abbr class="badge">IJNT</abbr>
-    
-  
-  </div>
-
-  <div id="divisor-funcs" class="col-sm-8">
-    
-      <div class="title">On gaps in the closures of images of divisor functions</div>
-      <div class="author">
-        
-          
-          
-          
-          
-          
-          
-            
-              
-                
-                  Achenjang, Niven,
-                
-              
-            
-          
-        
-          
-          
-          
-          
-          
-          
-            
-              
-                
-                  and Berger, Aaron
-                
-              
-            
-          
-        
-      </div>
-
-      <div class="periodical">
-      
-        <em>International Journal of Number Theory</em>,&nbsp
-      
-      
-        2019
-      
-      </div>
-    
-
-    <div class="links">
-    
-    
-      <a href="https://www.worldscientific.com/doi/10.1142/S1793042119500556" class="btn btn-sm z-depth-0" role="button" target="_blank">JOURNAL</a>
-      
-    
-      <a href="http://arxiv.org/abs/1808.07550" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
-    
-    
-        <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
-    
-    
-    
-    
-    
-    
-    
-    
-    </div>
-
-    <!-- Hidden abstract block -->
-    
-
-    <!-- Hidden bibtex block -->
-    
-    <div class="bibtex hidden">
-      <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">divisor-funcs</span><span class="p">,</span>
-  <span class="na">bibtex_show</span> <span class="p">=</span> <span class="s">{true}</span><span class="p">,</span>
-  <span class="na">title</span> <span class="p">=</span> <span class="s">{On gaps in the closures of images of divisor functions}</span><span class="p">,</span>
-  <span class="na">author</span> <span class="p">=</span> <span class="s">{Achenjang, Niven and Berger, Aaron}</span><span class="p">,</span>
-  <span class="na">year</span> <span class="p">=</span> <span class="s">{2019}</span><span class="p">,</span>
-  <span class="na">journal</span> <span class="p">=</span> <span class="s">{International Journal of Number Theory}</span><span class="p">,</span>
-  <span class="na">pages</span> <span class="p">=</span> <span class="s">{1023-1036}</span><span class="p">,</span>
-  <span class="na">number</span> <span class="p">=</span> <span class="s">{05}</span><span class="p">,</span>
-  <span class="na">volume</span> <span class="p">=</span> <span class="s">{15}</span><span class="p">,</span>
-  <span class="na">abbr</span> <span class="p">=</span> <span class="s">{IJNT}</span><span class="p">,</span>
-  <span class="na">html</span> <span class="p">=</span> <span class="s">{https://www.worldscientific.com/doi/10.1142/S1793042119500556}</span><span class="p">,</span>
-  <span class="na">arxiv</span> <span class="p">=</span> <span class="s">{1808.07550}</span><span class="p">,</span>
-  <span class="na">selected</span> <span class="p">=</span> <span class="s">{true}</span>
-<span class="p">}</span></code></pre></figure>
-    </div>
-    
-  </div>
-</div>
 </li></ol>
 </div>
 
@@ -865,7 +655,7 @@ $$
     
     <div class="social">
       <div class="contact-icons">
-        <a href="mailto:%6E%69%76%65%6E%74@%6D%69%74.%65%64%75"><i class="fas fa-envelope"></i></a>
+        <a href="mailto:%61%63%68%65%6E%6A%61%6E%67@%6D%61%74%68.%68%61%72%76%61%72%64.%65%64%75"><i class="fas fa-envelope"></i></a>
 <a href="https://orcid.org/0000-0001-9551-5821" target="_blank" title="ORCID"><i class="ai ai-orcid"></i></a>
 
 
@@ -911,7 +701,7 @@ $$
     Powered by <a href="http://jekyllrb.com/">Jekyll</a> using the <a href="https://github.com/alshedivat/al-folio">al-folio theme</a>.
     
     
-    Last site update: April 10, 2025.
+    Last site update: August 21, 2025.
     
     <span style="float:right;">
       <a href="http://accessibility.mit.edu/">Accessibility</a>

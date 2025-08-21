@@ -47,6 +47,25 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
 
 
+<!-- bigfootjs.com -->
+<script type="text/javascript" src="/~NivenT/assets/js//bigfoot.js"></script>
+<script type="text/javascript">
+    $.bigfoot({
+      positionContent: true,
+      // https://esham.io/2014/07/mathjax-and-bigfoot
+      activateCallback: function($popover, $button) {
+        if (MathJax && !$button.data('mathjax-processed')) {
+            var content_wrapper = $popover.find('.bigfoot-footnote__content')[0];
+            MathJax.Hub.Queue(['Typeset', MathJax.Hub, content_wrapper]);
+            MathJax.Hub.Queue(function () {
+                $button.attr('data-bigfoot-footnote', content_wrapper.innerHTML);
+                $button.data('mathjax-processed', true);
+            });
+        }
+    }
+    });
+</script>
+
 <!-- Theming-->
 
 <script src="/~NivenT/assets/js/theme.js"></script>
@@ -138,6 +157,13 @@
           
           
           
+          
+          <li class="nav-item ">
+              <a class="nav-link" href="/~NivenT/research/">
+                research
+                
+              </a>
+          </li>
           
           
           

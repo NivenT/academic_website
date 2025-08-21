@@ -47,6 +47,25 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
 
 
+<!-- bigfootjs.com -->
+<script type="text/javascript" src="/~NivenT/assets/js//bigfoot.js"></script>
+<script type="text/javascript">
+    $.bigfoot({
+      positionContent: true,
+      // https://esham.io/2014/07/mathjax-and-bigfoot
+      activateCallback: function($popover, $button) {
+        if (MathJax && !$button.data('mathjax-processed')) {
+            var content_wrapper = $popover.find('.bigfoot-footnote__content')[0];
+            MathJax.Hub.Queue(['Typeset', MathJax.Hub, content_wrapper]);
+            MathJax.Hub.Queue(function () {
+                $button.attr('data-bigfoot-footnote', content_wrapper.innerHTML);
+                $button.data('mathjax-processed', true);
+            });
+        }
+    }
+    });
+</script>
+
 <!-- Theming-->
 
 <script src="/~NivenT/assets/js/theme.js"></script>
@@ -171,6 +190,13 @@ $$
           
           
           
+          <li class="nav-item ">
+              <a class="nav-link" href="/~NivenT/research/">
+                research
+                
+              </a>
+          </li>
+          
           
           
           
@@ -247,6 +273,31 @@ $$
     <li> 
         <b>
             
+                Local Poitou-Tate duality
+            
+        </b>, 
+        <i>
+            
+                <a href="https://people.math.osu.edu/cueto.5/RTG/rtg25/RTGConference25.html">RTG 2025 Workshop Arithmetic Statistics</a>
+            
+        </i>,
+        Ohio State University - Jun 2025
+    </li>
+    
+        This was a background lecture for Alex Smith's minicourse on his work on Goldfeld.
+    
+    
+    
+    
+    
+    
+        There is a recording of this talk <a href="https://www.youtube.com/watch?v=igG46G_xBQk&amp;t=14s">here</a>.
+    
+    <div style="margin-bottom:15px"></div>
+  
+    <li> 
+        <b>
+            
                 <a href="https://meetings.ams.org/math/spring2025e/meetingapp.cgi/Paper/47285">An upper bound for the average rank of elliptic curves over arbitrary function fields</a>
             
         </b>, 
@@ -258,11 +309,13 @@ $$
         Hartford, Connecticut - Apr 2025
     </li>
     
+    
         This was based on the work in <a href="https://arxiv.org/abs/2310.08493">this paper</a>.
     
     
     
         My slides can be found <a href="/~NivenT/assets/pdf/slides/ams25_conn.pdf">here</a>.
+    
     
     
     <div style="margin-bottom:15px"></div>
@@ -281,7 +334,9 @@ $$
         Johns Hopkins University - Feb 2025
     </li>
     
+    
         This was based on the work in <a href="https://academic.oup.com/imrn/article-abstract/2024/10/8157/7223456">this paper</a>.
+    
     
     
     
@@ -302,11 +357,13 @@ $$
         University of California, Riverside - Oct 2024
     </li>
     
+    
         This was based on the work in <a href="https://arxiv.org/abs/2410.06217">this paper</a>.
     
     
     
         My slides can be found <a href="/~NivenT/assets/pdf/slides/ams24_UCR.pdf">here</a>.
+    
     
     
     <div style="margin-bottom:15px"></div>
@@ -325,11 +382,13 @@ $$
         Laval University - Oct 2024
     </li>
     
+    
         This was based on the work in <a href="https://arxiv.org/abs/2410.06217">this paper</a>.
     
     
     
         My slides can be found <a href="/~NivenT/assets/pdf/slides/qm24.pdf">here</a>.
+    
     
     
     <div style="margin-bottom:15px"></div>
@@ -348,12 +407,14 @@ $$
         Mathematisches Forschungsinstitut Oberwolfach (MFO) - Sep 2024
     </li>
     
+    
         This was based on the work in <a href="https://arxiv.org/abs/2410.06217">this paper</a>.
     
     
     
     
         I wrote an extended abstract for this talk, which you can find <a href="/~NivenT/assets/pdf/abstracts/mfo_Brauer_abstract.pdf">here</a>.
+    
     
     <div style="margin-bottom:15px"></div>
   
@@ -371,11 +432,13 @@ $$
         MIT - Jul 2024
     </li>
     
+    
         This was based on the work in <a href="https://arxiv.org/abs/2310.08493">this paper</a>.
     
     
     
         My slides can be found <a href="/~NivenT/assets/pdf/slides/mordell24.pdf">here</a>.
+    
     
     
     <div style="margin-bottom:15px"></div>
@@ -394,7 +457,9 @@ $$
         Temple University - Jun 2024
     </li>
     
+    
         This was based on the work in <a href="https://academic.oup.com/imrn/article-abstract/2024/10/8157/7223456?login=false&amp;utm_source=advanceaccess&amp;utm_campaign=imrn&amp;utm_medium=email">this paper</a>.
+    
     
     
     
@@ -415,11 +480,13 @@ $$
         San Francisco - Jan 2024
     </li>
     
+    
         This was based on the work in <a href="https://arxiv.org/abs/2310.08493">this paper</a>.
     
     
     
         My slides can be found <a href="/~NivenT/assets/pdf/slides/jmm24.pdf">here</a>.
+    
     
     
     <div style="margin-bottom:15px"></div>
@@ -438,11 +505,13 @@ $$
         Baltimore - Jan 2019
     </li>
     
+    
         This was based on the work in <a href="https://www.worldscientific.com/doi/10.1142/S1793042119500556">this paper</a>.
     
     
     
         My slides can be found <a href="/~NivenT/assets/pdf/slides/jmm19.pdf">here</a>.
+    
     
     
     <div style="margin-bottom:15px"></div>
@@ -469,7 +538,9 @@ $$
         Emory - Apr 2025
     </li>
     
+    
         This was based on the work in <a href="https://arxiv.org/abs/2410.06217">this paper</a>.
+    
     
     
     
@@ -490,7 +561,9 @@ $$
         Rice University - Oct 2024
     </li>
     
+    
         This was based on the work in <a href="https://arxiv.org/abs/2410.06217">this paper</a>.
+    
     
     
     
@@ -511,7 +584,9 @@ $$
         University of Washington - Apr 2024
     </li>
     
+    
         This was based on the work in <a href="https://arxiv.org/abs/2311.18132">this paper</a>.
+    
     
     
     
@@ -532,7 +607,9 @@ $$
         Harvard - Feb 2024
     </li>
     
+    
         This was based on the work in <a href="https://arxiv.org/abs/2310.08493">this paper</a>.
+    
     
     
     
@@ -553,7 +630,9 @@ $$
         Brown Univeristy - Feb 2024
     </li>
     
+    
         This was based on the work in <a href="https://arxiv.org/abs/2310.08493">this paper</a>.
+    
     
     
     
@@ -574,7 +653,9 @@ $$
         Boston University - Jan 2024
     </li>
     
+    
         This was based on the work in <a href="https://arxiv.org/abs/2310.08493">this paper</a>.
+    
     
     
     
@@ -592,6 +673,27 @@ $$
     <li> 
         <b>
             
+                Ranks of quadratic twists of elliptic curves
+            
+        </b>, 
+        <i>
+            
+                Arithmetic Statistics Seminar
+            
+        </i>,
+        Harvard - May 2025
+    </li>
+    
+    
+    
+    
+    
+    
+    <div style="margin-bottom:15px"></div>
+  
+    <li> 
+        <b>
+            
                 General strategy for algebraic degeneracy
             
         </b>, 
@@ -604,7 +706,9 @@ $$
     </li>
     
     
+    
         I wrote notes for this talk, which you can find <a href="/~NivenT/assets/pdf/Hyperbolicity_Talk.pdf">here</a>.
+    
     
     
     
@@ -623,6 +727,8 @@ $$
         </i>,
         MIT - Feb 2025
     </li>
+    
+    
     
     
     
@@ -646,6 +752,8 @@ $$
     
     
     
+    
+    
     <div style="margin-bottom:15px"></div>
   
     <li> 
@@ -661,6 +769,8 @@ $$
         </i>,
         Boston University - Feb 2024
     </li>
+    
+    
     
     
     
@@ -684,6 +794,8 @@ $$
     
     
     
+    
+    
     <div style="margin-bottom:15px"></div>
   
     <li> 
@@ -699,6 +811,8 @@ $$
         </i>,
         MIT - Nov 2023
     </li>
+    
+    
     
     
     
@@ -720,7 +834,9 @@ $$
     </li>
     
     
+    
         I wrote notes for this talk, which you can find <a href="/~NivenT/assets/pdf/Galois_Def_Notes.pdf">here</a>.
+    
     
     
     
@@ -741,7 +857,9 @@ $$
     </li>
     
     
+    
         I wrote notes for this talk, which you can find <a href="/~NivenT/assets/pdf/FLT_Overview_Notes.pdf">here</a>.
+    
     
     
     
@@ -762,7 +880,9 @@ $$
     </li>
     
     
+    
         I wrote notes for this talk, which you can find <a href="/~NivenT/assets/pdf/STAGE_Shimura_Notes.pdf">here</a>.
+    
     
     
     
@@ -781,6 +901,8 @@ $$
         </i>,
         MIT - Dec 2022
     </li>
+    
+    
     
     
     
@@ -804,6 +926,8 @@ $$
     
     
     
+    
+    
     <div style="margin-bottom:15px"></div>
   
     <li> 
@@ -821,7 +945,9 @@ $$
     </li>
     
     
+    
         I wrote notes for this talk, which you can find <a href="/~NivenT/assets/pdf/Local_Heights_and_Arithmetic_Surfaces.pdf">here</a>.
+    
     
     
     
@@ -840,6 +966,8 @@ $$
         </i>,
         Online - Jun 2022
     </li>
+    
+    
     
     
     
@@ -863,6 +991,8 @@ $$
     
     
     
+    
+    
     <div style="margin-bottom:15px"></div>
   
     <li> 
@@ -878,6 +1008,8 @@ $$
         </i>,
         Harvard - Apr 2022
     </li>
+    
+    
     
     
     
@@ -901,6 +1033,8 @@ $$
     
     
     
+    
+    
     <div style="margin-bottom:15px"></div>
   
     <li> 
@@ -918,7 +1052,9 @@ $$
     </li>
     
     
+    
         I wrote notes for this talk, which you can find <a href="/~NivenT/assets/pdf/STAGE_Vojta_Notes.pdf">here</a>.
+    
     
     
     
@@ -939,7 +1075,9 @@ $$
     </li>
     
     
+    
         I wrote notes for this talk, which you can find <a href="/~NivenT/assets/pdf/STAGE_Vojta_Notes.pdf">here</a>.
+    
     
     
     
@@ -960,7 +1098,9 @@ $$
     </li>
     
     
+    
         I wrote notes for this talk, which you can find <a href="/~NivenT/assets/pdf/Juvitop_CFT_Notes.pdf">here</a>.
+    
     
     
     
@@ -983,6 +1123,8 @@ $$
     
     
     
+    
+    
     <div style="margin-bottom:15px"></div>
   
     <li> 
@@ -1000,7 +1142,9 @@ $$
     </li>
     
     
+    
         I wrote notes for this talk, which you can find <a href="/~NivenT/assets/pdf/KanSem_Forms_of_K_Theory.pdf">here</a>.
+    
     
     
     
@@ -1021,7 +1165,9 @@ $$
     </li>
     
     
+    
         I wrote notes for this talk, which you can find <a href="/~NivenT/assets/pdf/KanSem_Formal_Group_Law_Notes.pdf">here</a>.
+    
     
     
     
@@ -1044,6 +1190,8 @@ $$
     
     
     
+    
+    
     <div style="margin-bottom:15px"></div>
   
     <li> 
@@ -1059,6 +1207,8 @@ $$
         </i>,
         MIT - Sep 2020
     </li>
+    
+    
     
     
     
@@ -1086,6 +1236,8 @@ $$
         </i>,
         Stanford University - Apr 2019
     </li>
+    
+    
     
     
     
