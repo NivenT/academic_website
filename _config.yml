@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Niven
 middle_name: T.
 last_name: Achenjang
-email: nivent@mit.edu
+email: achenjang@math.harvard.edu
 description: My academic site
 
 icon: 
@@ -91,20 +91,23 @@ collections:
     output: true
     permalink: /news/:path/
   hobbies:
-    output: true
+    output: false
     permalink: /hobbies/:path/
   notes:
-    output: true
+    output: false
     permalink: /notes/:path/
   talks:
-    output: true
+    output: false
     permalink: /talks/:path/
   mathqns:
-    output: true
+    output: false
     permalink: /mathqns/:path/
   seminars:
     output: true
     permalink: /seminars/:path/
+  advice:
+    output: true
+    permalink: /advice/:path/
 
 news_limit: 6
 
