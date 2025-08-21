@@ -20,11 +20,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Starting Fall 2025, I am a BP and NSF postdoctoral fellow at Harvard, mentored by [Melanie Matchett Wood](https://people.math.harvard.edu/~mmwood/). I completed by PhD at MIT, advised by [Bjorn Poonen](https://math.mit.edu/~poonen/).
+Starting Fall 2025, I am a BP and NSF postdoctoral fellow at Harvard, mentored by [Melanie Matchett Wood](https://people.math.harvard.edu/~mmwood/). I completed by PhD at MIT, advised by [Bjorn Poonen](https://math.mit.edu/~poonen/). Ignore the university hosting this website; I'll fix that at some point...
 
 I am broadly interested in arithmetic geometry, arithmetic statistics, and especially in points on varieties. I generally like applying algebro-geometric arguments and cohomology computations in the service of proving finiteness results. See the [research](/research) tab for more on my work.
 
-You can find more information about my research in my [cv]({{ '/assets/pdf/cv.pdf' | relative_url}}) or under the "news" header below.
+You can find more information about me and my work in my [cv]({{ '/assets/pdf/cv.pdf' | relative_url}}) or under the "news" header below.
 
 Fun fact: if you press the moon/sun in the top right, you can switch between light/dark themes for this site.
 <div style="color:var(--global-bg-color);">

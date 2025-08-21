@@ -35,6 +35,9 @@ importance: 9
         </i>,
         {{talk.location}} - {{talk.date | date: "%b %Y"}}
     </li>
+    {% if talk.description %}
+        {{ talk.description }}
+    {% endif %}
     {% if talk.paper %}
         This was based on the work in <a href="{{ talk.paper }}">this paper</a>.
     {% endif %}
@@ -46,6 +49,9 @@ importance: 9
     {% endif %}
     {% if talk.abstract %}
         I wrote an extended abstract for this talk, which you can find <a href="{{ '/assets/pdf/abstracts' | relative_url}}/{{talk.abstract}}">here</a>.
+    {% endif %}
+    {% if talk.video %}
+        There is a recording of this talk <a href="{{ talk.video }}">here</a>.
     {% endif %}
     <div style="margin-bottom:15px"></div>
   {% endfor %}

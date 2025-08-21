@@ -10,4 +10,4 @@ Let $$\mathscr Y(2)$$ be the moduli stack of elliptic curves equipped with full 
 
 $$-1=\chi(\P^1)-3=\chi(Y(2))=2\chi(\mathscr Y(2))=2\cdot6\chi(\mathscr Y(1))\implies\mathscr Y(1)=-1/12.$$
 
-After cdoing this computation, one realizes that also $$\zeta(-1)=-1/12$$. Why is this? Morally, why is the Euler characteristic of the moduli stack of elliptic curves a special zeta value? How could one guess this without having to compute either $$\chi(\mathscr Y(1))$$ or $$\zeta(-1)$$?
+After doing this computation, one realizes that also $$\zeta(-1)=-1/12$$. Why is this? Morally, why is the Euler characteristic of the moduli stack of elliptic curves a special zeta value? How could one guess this without having to compute either $$\chi(\mathscr Y(1))$$ or $$\zeta(-1)$$?
