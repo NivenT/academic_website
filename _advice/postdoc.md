@@ -27,6 +27,7 @@ Most, if not all, of this will be expanded upon below, but just to have this upf
 * Start early. Most postdoc positions (on mathjobs) have due dates in November, but some applications are due as early as August 1 [^1].
 * If you have ongoing projects you are excited about, try to finish them (or, at least, get a version on arxiv) before applying to postdocs, so you can include them in your cv, reference them in your research statement, etc.
   * For me, I had [one paper](https://arxiv.org/abs/2410.06217v1) come out about a week before NSF was due; that was not an accident.
+  * Alternatively, if you cannot finish them before a deadline for any reason, you can also send drafts to your letter writers so they can talk about your upcoming work in their letters.
 * If you haven't already, make a website.
 * Some applications have weird quirks or confusing wording. In such cases, there is usually someone you can email who will be happy to clear things up. However, speaking from experience, if you only start putting the application together a day or two before it is due, you may not have enough time to email them and wait for a response before you need to submit it.
 * It is helpful to talk with other people applying in your year. Postdoc applications can be stressful and not-so-fun, so it helps to help each other through the process.
@@ -56,17 +57,21 @@ It is also worth keeping in mind that various mathematical institutes will also 
 
 ## Europe + Others
 
-It is my understanding that postdoc applications outside of the US tend to be less standardized. Some such positions will appear on mathjobs, but by no means all of them. Positions outside of the US tends to rely more on word-of-mouth advertising. They also tend to have more variance in when they open up (more on this later; see [Rough Timeline](#rough-timeline)). That said, here's some general advice for finding non-US positions:
+It is my understanding that postdoc applications outside of the US tend to be less standardized. Some such positions will appear on mathjobs, but by no means all of them. Positions outside of the US tends to rely more on word-of-mouth advertising. They also tend to have more variance in when they open up (more on this later; see [Rough Timeline](#rough-timeline)). In Europe, I believe they are also generally funded by an individual mathematician's grant(s) instead of by the department, which is part of why the system is more ad hoc. That said, here's some general advice for finding non-US positions:
 
 * Talk to your advisor. They may know someone looking for a postdoc or know other tricks for finding positions.
+* Additionally, if you know postdocs who have lived/worked in the county you are applying to, talk to them to.
 * Subscribe to mailing lists. Some subjects have (worldwide) mailing lists that are often used to advertise job openings (and conferences and other news), though how active they are may vary. I know there is one for [algebraic topology](https://lists.illinois.edu/lists/info/algtop-l) which is quite active and one for [number theory](https://listserv.nodak.edu/cgi-bin/wa.exe?A0=NMBRTHRY). You can ask your advisor if there is such a mailing list in your subject area. 
 * Additionally, pay attention to department emails. Some times these will contain advertisements for job postings. For example, my partner ended up taking a position at MIT that we first heard about from an email advertisement blasted to everyone in the MIT math department. 
+* More directly, it may be that the best way to know if someone is taking postdocs is to contact them directly (or to ask your advisor to do so on your behalf).
+  * Keep in mind it may look bad if you do this too strongly, but then don't take the offer.
 * For jobs in the UK specifically, there is the website [jobs.ac.uk](https://www.jobs.ac.uk/search/mathematics-and-statistics), which is some times described as a mathjobs analogue. When I was applying, I did not find it as useful as mathjobs, but it is still worth checking it every so often in case something relevant to you pops up.
 * Also in the UK, [UK Research and Innovation](https://www.ukri.org/apply-for-funding/our-fellowship-opportunities/) may fund some relevant positions.
+* At Oxbridge (and possibly elsewhere in the UK), postdoc positions are often associated to the individual colleges (as opposed to the whole university), so the best way to find them is to go through each college's website separately. These also tend to have earlier deadlines.
 
 ## Some Fancy Positions
 
-Finally, there are certain notable postdocs which may be hard to find if you do not already know about them. These tend to have early (i.e. pre-November) deadlines, sometimes require you to identify a host mentor in your application [^2], and sometimes require that you be "nominated" to apply (in practice, this means you ask your advisor to nominate you). Some such positions include (this is a non-exhaustive list, mostly because I do not know all such positions)
+Finally, there are certain notable postdocs which may be hard to find if you do not already know about them. These tend to have early (i.e. pre-November) deadlines, sometimes require you to identify a host mentor in your application [^2], and sometimes require that you be "nominated" to apply (in practice, this means you ask your advisor to nominate you). They may also require an interview (in which case, it is helpful to ask people who have applied previously for advice on interviewing). Some such positions include (this is a non-exhaustive list, mostly because I do not know all such positions)
 
 * [Klarman Fellowship at Cornell](https://as.cornell.edu/research/klarman-fellowships)
 * LSA Collegiate Fellowship at UMich
@@ -76,6 +81,10 @@ Finally, there are certain notable postdocs which may be hard to find if you do 
 * [Berkeley Miller Fellowship](https://miller.berkeley.edu/fellowship)
 * [Marie Curie Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
 * [Clay Fellowship](https://www.claymath.org/fellowship-nominations/)
+* [MIT School of Science Postdoc](https://academicjobsonline.org/ajo/fellowship/28683) (I linked to the application page for the 2024 season because this postdoc has a surprisingly poor online presence)
+* [Stanford Science Fellows](https://stanfordsciencefellows.stanford.edu/)
+* [Cambridge Herchel Smith Postdoc](https://www.herchelsmith.cam.ac.uk/postdoctoral-fel)
+* [CRM postocs](https://www.crmath.ca/en/mobility-fellowships-and-visitors/crm-ism-postdoctoral-fellowships/) (can think of this as Canadian NSF) 
 * There may be other positions attached to the DFG (Deutsche Forschungsgemeinschaft) in Germany, the CNRS in France, the Royal Society in the UK, etc.
 
 I did not know about all of these when I was applying, so I am not well versed in what each one entails, but I would generally suggest applying to as many as possible. Personally, I knew about/applied to I think 6 of them; if nothing else, doing so was very helpful in getting (several versions of) my research statement done early.
@@ -97,12 +106,17 @@ There was also a second NSF postdoc in mathematics, [MPS-Ascend](https://www.nsf
 
 # Networking
 
-Networking is an important piece of one's mathematical career. Unforunately, it is a skill I have not yet managed to get good at, so I cannot offer much advice here beyond parroting what others have told me. 
+Networking is an important piece of one's mathematical career. Unfortunately, it is a skill I have not yet managed to get good at, so I cannot offer much advice here beyond parroting what others have told me. 
 
+* Have a website and indicate on it that you are currently on the job market.
 * You should expect to travel a lot the year you apply. You want to give as many talks as possible and go to many conferences in order to help get your name out there.
+  * Ask your advisor for suggestions on where to travel.
+* Attending European conferences can be another good way to hear about some of the word-of-mouth postdoc opportunities which are available.
+* If you have trouble putting yourself out there, one way to start a conversation about hiring is asking professors if they have any tips for applying to postdocs.
+  * This both can let them know you are on the market and get you some good advice.
 * I was once told that November is a particularly good time to be travelling/networking, because this is around when many postdoc applications will start being submitted, so it is helpful if you are fresh on people's minds when they start evaluating applications.
+* Your advisor can email people on your behalf to see if you can talk in their seminars.
 * If you speak at a department seminar, don't aim your talk at only the experts. People will be more excited to have you join their department if you seem like someone they can easily talk math with.
-* [figure out other things to put, idk, I'm so bad at networking]
 
 # Rough Timeline
 
@@ -135,13 +149,14 @@ In later sections, I'll say some words about application materials, offers, etc.
 * January+February
   * You will probably hear back from most places during these two months.
   * Negotiate offer details (more on this later; see [Receiving/Responding to Offers](#receivingresponding-to-offers)).
-  * The NSF postdoc usually sends offers around the end of January, I believe
+  * The NSF postdoc usually sends offers around the end of January, I believe.
     * [Most US departments](https://www.ams.org/learning-careers/employment-services/deadline-coordination/deadline-coordination) agree to not require you to respond until about a week after NSF comes out.
   * Because most people who are offered an NSF postdoc take it, many departments may wait until after NSF comes out before sending out their offers [^5].
 * March and beyond
   * The application season does not actually end in February.
   * You may still hear from some schools in these later months.
     * I had a few surprising emails from places indicating interest in me in these later months; the latest such email came in early April, but such things can come even later.
+    * It is especially important to respond quickly to such emails at this stage of things. If you are no longer interested in a position from them (e.g. because you already accepted a different offer), say so; you don't want to hold up someone else who is waiting to hear back.
   * European positions are definitely still in play in these later months.
     * There were still open postdoc positions advertised on the ALGTOP-L mailing list throughout the spring semester when I applied.
     * I vaguely remember hearing someone (who applied the year before me) getting the postdoc offer they took only in like June or something.
@@ -155,9 +170,13 @@ Here are things you should know about postdoc offers.
   * More commonly, schools may reach out to you to ask if you are still interested in them before (considering) formally sending you an offer.
 * Most places are willing to let you delay your start date by a year if you want to for any reason.
   * One big exception to this is the NSF postdoc, which requires you begin the year you receive your offer. However, your second year of NSF does not have to immediately follow the first.
+* Additionally, in the US, most departments agree to not require responses until (about a week) after NSF results come out. The joint deadline they agree to abide by is usually posted by the [AMS](https://www.ams.org/learning-careers/employment-services/deadline-coordination/deadline-coordination).
 * If you think you want to combine offers or would like more time before responding to an offer, do not be afraid to ask.
   * When you receive an offer, if you would seriously consider accepting it, but only in combination with something else or only under other specific circumstances, it is helpful to send a reply where you explain your situation and ask them if they would be amenable to this.
   * I ended up combining 3 postdoc offers (for a total of 5 years). This involved multiple email chains and a lot of back-and-forth to get permission from everyone, but everyone involved in the process was kind and understanding, even as I asked them for time to check with other parties and asked about various scenarios of what the combination could look like (mostly based around if I do/don't receive NSF and different strategies for satisfying certain scheduling constraints the offers imposed).
+* It may also be possible to negotiate some details of your offers.
+  * For example, if you prefer to go to school A, but school B offered you a position with higher pay or less teaching, you can ask place A if they'd be willing to improve the terms of your offer.
+  * I personally did not do this (other than to negotiate combining offers), but I know some people who did this successfully.
 * Departments are often receptive to questions about the status of your application.
   * If you receive an offer from school A, but you are waiting to hear back from school B where you would rather be, you can send an email to school B explaining that you just got this offer you need to respond to and asking about your chances of receiving an offer from them. This is a normal sort of thing.
     * Not all schools/positions will be allowed to answer such questions, but many will, and worst-case scenario, they just say they can't tell you. I think the NSF, in particular, usually shies away from such questions.
@@ -200,10 +219,12 @@ This is the main place where you get to advertise yourself/your work. Different 
   * Don't be too technical; no need to state the most general or most precise version. You can always say, "roughly, blah; see [Citation] for more details"
 * In mine, I liked to briefly summarize the various sections/projects in the beginning before getting into more details later.
 * You should suggest potential problems/projects you could work on. They do not need to be revolutionary.
+  * As part of making your statement easy to read/navigate, you can put these under an explicitly marked `future directions` or `proposed projects` or (whatever else) section.
   * It is good to have a mix of easier, more readily-attainable suggestions and longer term, more ambitious goals. Start with the easier stuff.
   * Do not claim you will prove the Riemann hypothesis.
   * It is helpful if you can (implicitly or explicitly) justify why you in particular are capable of making progress on the problems you suggest.
     * I think when I was applying, I received some conflicting advice on how explicitly one needs to do this, so I suppose it depends on who's reading your statement.
+  * You are not bound to do the projects to suggest in your research statement, but it is helpful to put real thought into what you could work on as a postdoc.
 * Other suggestions I have heard include:
   * Include example/pictures if you can.
   * Say if your work has been used in other work.
@@ -230,7 +251,9 @@ For better or worse, it is my understanding that the main point of such statemen
 
 * Talk about the various teaching experiences you have had.
   * You can include information about the (mathematical) background and number of students
-* Discuss your teaching philosophy/style/values
+* Give concrete examples about your teaching experience/habits.
+  * For example, giving challenge problems to students who were bored/unchallenged.
+* You can discuss your teaching philosophy/style/values
 * Include (positive) student feedback
 
 For your diversity statement, I think this often has large overlap with your teaching statement (indeed, probably most ways you've supported diversity in mathematics involved some amount of teaching/mentorship). Beyond what could also go in your teaching statement, you can include personal reflections of your own experiences in mathematics and on your thoughts concerning the intersection of diversity and mathematics. 
@@ -260,13 +283,18 @@ They were **not** literally the above template, but you get the idea. You basica
 
 # Applying with a partner
 
-Finally, if you have a partner who is applying the same time as you, here is some advice for trying to coordinate jobs. Unfortunately, this is quite a hard thing to guarantee, so I have no game-changing secrets to share.
+Finally, if you have a partner who is applying the same time as you, here is some advice for trying to coordinate jobs. Unfortunately, this is quite a hard thing to guarantee, so I have no game-changing secrets to share. Additionally, I think every couple handles things different (e.g. my partner and I explictly referenced each other in our applications, but not every couple chooses to do this). That said, things to consider include:
 
 * Apply to a lot of places. The more places you apply to, the more likely it is that you'll have overlap in your offers.
-* Keep in mind that some cities (e.g. Boston) have multiple universities around and so provide bigger targets to hit.
-* Opinions vary on if you should include in your applications that you are applying together. Personally, I say include it.
-  * It is my understanding that such information makes more of a differece for TT jobs than for postdocs, so do not expect this to make-or-break anyone's application.
-  * My partner and I did this by including a sentence at the end of each of our cover letters, essentially saying "My partner, [name], is also applying for math postdocs in [school/area], so I would be especially happy to come here."
+* Keep in mind that some cities/areas (e.g. Boston) have multiple universities around and so provide bigger targets to hit.
+* Opinions vary on if you should include in your applications that you are applying together.
+  * It is my understanding that such information makes more of a differece for TT jobs than for postdocs, so do not expect this to make-or-break anyone's application. 
+  * The potential upside is that if a department really likes one of you and is aware that you are a package deal, then they may be more willing to give the other an offer (again, I think this sort of thing happens more for TT jobs than for postdocs).
+  * The potential downside is that if a department only likes one of you, then they may opt to offer neither of you a position if they feel the one person would reject them anyways because of this.
+  * My partner and I chose to do this, by including a sentence at the end of each of our cover letters, essentially saying, "My partner, [name], is also applying for math postdocs in [school/city/area], so I would be especially happy to come here."
+    * In my opinion, I did not get the impression this made much of a difference in how our applications were evaluated [^14]. At the very least, for the places my partner heard back from first, she would email to ask about the status of my application; their responses never seemed, to me, to suggest they were already aware of and considering the fact that we were coupled.
+* Even if you do not say anything in your official application,  you can also consider informally telling some places that you are applying with a partner.
+  * For example, you can email/otherwise inform someone friendly in the department who you already know (e.g. a potential advisor).
 * Once you start receiving offers, feel free to reach out about the status of your partner's application
 * If either of you get NSF, you can move it to your partner's institution after one year.
 * Obviously, communicate with each other about your applications and whatnot. You can also let your advisor/letter writers know you are applying together in case they have any additional advice/insight.
@@ -285,3 +313,4 @@ Finally, if you have a partner who is applying the same time as you, here is som
 [^11]: Also, the NSF is not good about making this clear, but you **can** apply to multiple NSF postdocs in the same application season. However, you **cannot** accept multiple offers.
 [^12]: I guess some postdoc applications will involve an interview as well. These are fairly uncommon (and so can vary in style), so I don't have much math-specific advice here, but general advice on job interviews applies.
 [^13]: You have some flexibility in exactly how you distribute these various months; see [Program Description](https://www.nsf.gov/funding/opportunities/msprf-mathematical-sciences-postdoctoral-research-fellowships/nsf23-603/solicitation#pgm_desc_txt). One common setup is spend 1 full-year on NSF + 2 half-years on NSF + 2 half-years teaching, for 3 years total.
+[^14]: Of course, I generally did not get any feedback from the places I applied to or insight into why they made the decisions they did, so I could be wrong. 
