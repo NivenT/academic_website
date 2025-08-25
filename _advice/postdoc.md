@@ -3,7 +3,7 @@ layout: page
 title: postdoc application advice
 ---
 
-This is a page of advice (and personal opinions) on applying to research math postdocs (mostly aimed towards US applications). For more advice/suggestions beyond what is offered here, one can consult, e.g., [Bjorn Poonen](https://math.mit.edu/~poonen/advice.html) or [Lauren Williams](https://math.berkeley.edu/~katrin/slides/Williams-FindingJob.pdf). If any advice here contradicts what either of them (or your advisor) say, probably you should listem to them over me. 
+This is a page of advice (and personal opinions) on applying to research math postdocs (mostly aimed towards US applications). For more advice/suggestions beyond what is offered here, one can consult, e.g., [Bjorn Poonen](https://math.mit.edu/~poonen/advice.html) or [Lauren Williams](https://math.berkeley.edu/~katrin/slides/Williams-FindingJob.pdf). **If any advice here contradicts what either of them (or your advisor) say, probably you should listem to them over me.**
 
 **Table of Contents**
 - TOC
@@ -68,23 +68,24 @@ It is my understanding that postdoc applications outside of the US tend to be le
 
 ## Some Fancy Positions
 
-Finally, there are certain notable postdocs which may be hard to find if you do not already know about them. These tend to have early (i.e. pre-November) deadlines, sometimes require you to identify a host mentor in your application [^2], and sometimes require that you be "nominated" to apply (in practice, this means you ask your advisor to nominate you). They may also require an interview (in which case, it is helpful to ask people who have applied previously for advice on interviewing). Some such positions include (this is a non-exhaustive list, mostly because I do not know all such positions)
+Finally, there are certain notable postdocs which may be hard to find if you do not already know about them. These tend to have early (i.e. pre-November) deadlines, sometimes require you to identify a host mentor in your application [^2], and sometimes require that you be "nominated" to apply (in practice, this means you ask your advisor to nominate you). They may also require an interview (in which case, it is helpful to ask people who have applied previously for advice on interviewing). Some such positions include (this is a non-exhaustive list, mostly because I do not know all such positions):
 
 * [Klarman Fellowship at Cornell](https://as.cornell.edu/research/klarman-fellowships)
 * LSA Collegiate Fellowship at UMich
 * [Presidents Postdoctoral Fellowship](https://ppfp.ucop.edu/info/how-to-apply/)
 * [Harvard Society of Fellows](https://socfell.onlinesubmissionportal.com/nomination/)
-* [Simons Society of Fellows](https://www.simonsfoundation.org/simons-society-of-fellows/nominations/)
+* [Simons Society of Fellows in NYC](https://www.simonsfoundation.org/simons-society-of-fellows/nominations/)
 * [Berkeley Miller Fellowship](https://miller.berkeley.edu/fellowship)
 * [Marie Curie Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
 * [Clay Fellowship](https://www.claymath.org/fellowship-nominations/)
 * [MIT School of Science Postdoc](https://academicjobsonline.org/ajo/fellowship/28683) (I linked to the application page for the 2024 season because this postdoc has a surprisingly poor online presence)
 * [Stanford Science Fellows](https://stanfordsciencefellows.stanford.edu/)
 * [Cambridge Herchel Smith Postdoc](https://www.herchelsmith.cam.ac.uk/postdoctoral-fel)
-* [CRM postocs](https://www.crmath.ca/en/mobility-fellowships-and-visitors/crm-ism-postdoctoral-fellowships/) (can think of this as Canadian NSF) 
+* [CRM Postdoc in Canada](https://www.crmath.ca/en/mobility-fellowships-and-visitors/crm-ism-postdoctoral-fellowships/) (can think of this as Canadian NSF) 
+* [FSMP Postdoc in Paris](https://sciencesmaths-paris.fr/en/postdoc-fsmp) 
 * There may be other positions attached to the DFG (Deutsche Forschungsgemeinschaft) in Germany, the CNRS in France, the Royal Society in the UK, etc.
 
-I did not know about all of these when I was applying, so I am not well versed in what each one entails, but I would generally suggest applying to as many as possible. Personally, I knew about/applied to I think 6 of them; if nothing else, doing so was very helpful in getting (several versions of) my research statement done early.
+I did not know about all of these when I was applying, so I am not well versed in what each one entails, but I would generally suggest applying to as many as possible. Personally, I knew about/applied to I think 9 of them; doing so was very helpful in getting (several versions of) my research statement done early (and I accepted an offer from one of them).
   
 # NSF Postdoc
 
