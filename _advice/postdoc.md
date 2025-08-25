@@ -1,9 +1,6 @@
 ---
 layout: page
 title: postdoc application advice
-toc:
-    - name: Networking
-secret: true
 ---
 
 This is a page of advice (and personal opinions) on applying to research math postdocs (mostly aimed towards US applications). For more advice/suggestions beyond what is offered here, one can consult, e.g., [Bjorn Poonen](https://math.mit.edu/~poonen/advice.html) or [Lauren Williams](https://math.berkeley.edu/~katrin/slides/Williams-FindingJob.pdf). If any advice here contradicts what either of them (or your advisor) say, probably you should listem to them over me. 
