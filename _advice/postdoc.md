@@ -68,7 +68,7 @@ It is my understanding that postdoc applications outside of the US tend to be le
 
 ## Some Fancy Positions
 
-Finally, there are certain notable postdocs which may be hard to find if you do not already know about them. These tend to have early (i.e. pre-November) deadlines, sometimes require you to identify a host mentor in your application [^2], and sometimes require that you be "nominated" to apply (in practice, this means you ask your advisor to nominate you). They may also require an interview (in which case, it is helpful to ask people who have applied previously for advice on interviewing). Some such positions include (this is a non-exhaustive list, mostly because I do not know all such positions):
+Finally, there are certain notable postdocs which may be hard to find if you do not already know about them. **These tend to have early (i.e. pre-November, some in August or September) deadlines**, sometimes require you to identify a host mentor in your application [^2], and sometimes require that you be "nominated" to apply (in practice, this means you ask your advisor to nominate you). They may also require an interview (in which case, it is helpful to ask people who have applied previously for advice on interviewing). Some such positions include (this is a non-exhaustive list, mostly because I do not know all such positions):
 
 * [Klarman Fellowship at Cornell](https://as.cornell.edu/research/klarman-fellowships)
 * LSA Collegiate Fellowship at UMich
@@ -109,6 +109,7 @@ Networking is an important piece of one's mathematical career. Unfortunately, it
 * Have a website and indicate on it that you are currently on the job market.
 * You should expect to travel a lot the year you apply. You want to give as many talks as possible and go to many conferences in order to help get your name out there.
   * Ask your advisor for suggestions on where to travel.
+  * Also, talk to other speakers/participants at the conferences you go to. Even just asking the speaker a question after a talk counts for something.
 * Attending European conferences can be another good way to hear about some of the word-of-mouth postdoc opportunities which are available.
 * If you have trouble putting yourself out there, one way to start a conversation about hiring is asking professors if they have any tips for applying to postdocs.
   * This both can let them know you are on the market and get you some good advice.
@@ -161,7 +162,7 @@ In later sections, I'll say some words about application materials, offers, etc.
 
 # Receiving/Responding to Offers
 
-Here are things you should know about postdoc offers.
+Here are some things you should know about postdoc offers.
 
 * Schools can be surprisingly cautious in making offers. They do not make an offer to everyone whom they would like to have in their department; they also consider if they think the person would likely accept their offer.
   * As an extreme example, I know one person who had a school say they were rejecting him because they heard he was applying to NSF at a top university and so felt it was unlikely he would end up accepting an offer from them; this was before NSF results had come out.
@@ -188,12 +189,12 @@ That was everything I had to say about procedure. Let's talk about the applicati
 
 * You want **all** of your rec letters to be strong. Quality matters more than quantity [^7], so, for example, 3 strong letters is better than 3 strong letters + 1 weak letter.
   * Collaborators are often great choices.
-* As with applying to grad school, the more senior/well-known a letter writer is, the better. However, this needs to be balanced with the strength of the latter; don't get hung up on asking someone famous if they do not know you [^6].
+* As with applying to grad school, the more senior/well-known a letter writer is, the better. However, this needs to be balanced with the strength of the letter; don't get hung up on asking someone famous if they do not know you [^6].
 * Your letter writers do not necessarily need to know you personally super well. It is more important that they be familiar with your work and able/willing to say nice things about it. It is common to ask someone you've, for example, only met at conferences. In all cases, try to make their job as easy as possible for them.
   * People typically suggest asking potential letter writers at least one month before their first deadline.
   * Send them your application materials, especially your research statement and cv (drafts are fine).
   * Let them know where all you are planning on applying and what deadlines they need to be aware of.
-  * Offer to meet with them in person or over zoom to talks about your work and/or answer any questions they have.
+  * Offer to meet with them in person or over zoom to talk about your work and/or answer any questions they may have.
   * If you have ongoing work you would like them to comment on, share it with them. Generally, if you have specific things you would like them to comment on, tell them.
   * All this advice applies also to "hosts/sponsors" for postdoc applications which require you to name one (e.g. NSF, Miller, etc.).
 * Postings on mathjobs will differ in the number of rec letters they require (e.g. they may ask for "4 letters" or "at least 3 letters" or "2-5 letters" or ...), but when you submit your application, you are generally allowed to submit as many as you want. Even if the description calls for a specific number (e.g. says "3 letters"), **in practice, most people will ignore this and submit as many as they want,** and so you should too. Some other application systems will enforce more strict limits on the number of rec letters you submit.
