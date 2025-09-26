@@ -24,15 +24,18 @@ nav: true
     </li>
 </ul>
 
-<h2 class="year">Talks and Expositions</h2>
+<h2 class="year">Talks and Writings</h2>
 <br>
 
 <ul>
     <li>
-        <a href="https://math.mit.edu/~poonen/papers/speaking.pdf">Practical suggestions for mathematical speaking</a>
+        <a href="https://math.mit.edu/~poonen/papers/speaking.pdf">Practical suggestions for mathematical speaking (by Bjorn)</a>
     </li>
     <li>
-        <a href="https://www.ams.org/journals/notices/202106/rnoti-p930.pdf?adat=June/July%202021&trk=2305&cat=career&galt=career">Practical suggestions for mathematical writing</a>
+        <a href="https://math.mit.edu/~poonen/papers/writing.pdf">Practical suggestions for mathematical writing (by Bjorn)</a>
+    </li>
+    <li>
+        <a href="https://www.ams.org/journals/notices/202106/rnoti-p930.pdf?adat=June/July%202021&trk=2305&cat=career&galt=career">Practical suggestions for mathematical writing (by some Bjorn students)</a>
     </li>
 </ul>
 
