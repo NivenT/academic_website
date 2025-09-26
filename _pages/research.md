@@ -6,7 +6,6 @@ description:
 years: [2024, 2023, 2019]
 nav: true
 importance: 0
-secret: true
 ---
 
 So far, I have mostly worked on projects related to, either directly or indirectly, points on varieties. But I have broader interests in most things that fall under arithmetic/algebraic geometry. 
