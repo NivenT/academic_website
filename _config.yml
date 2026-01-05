@@ -100,7 +100,7 @@ collections:
     output: false
     permalink: /talks/:path/
   mathqns:
-    output: false
+    output: true
     permalink: /mathqns/:path/
   seminars:
     output: true
