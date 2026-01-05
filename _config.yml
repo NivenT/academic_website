@@ -10,8 +10,8 @@ email: achenjang@math.harvard.edu
 description: My academic site
 
 icon: 
-url: https://www.mit.edu # the base hostname & protocol for your site
-baseurl: /~NivenT # the subpath of your site, e.g. /blog/
+url: https://www.people.harvard.edu # the base hostname & protocol for your site
+baseurl: /~achenjang # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
