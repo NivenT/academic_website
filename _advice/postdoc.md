@@ -47,10 +47,14 @@ You probably want to apply to a lot of positions (especially since mathjobs help
 In the US, finding postdoc positions to apply to is relatively easy. For the most part, you just need to go to [mathjobs](https://www.mathjobs.org/), where most universities advertise their jobs. This site also helps somewhat standardize applications to most universities' internal postdoc positions. It is worth checking this site every so often (especially once November comes around) because new positions might pop up on occassion. There are also many non-US jobs to which you can apply through mathjobs. However, even in the US, <b>not every job is on mathjobs</b>.
 
 Beyond mathjobs, some universities post their jobs on [Interfolio](https://www.interfolio.com/) instead; for example, when I was applying, the [University of Washington](https://math.washington.edu/open-positions) had their postdoc on Interfolio instead of mathjobs.
-Additionally, the UC's in California have their own system for postdoc applications, separate from both mathjobs and Interfolio. The exact link depends on the school you wish to apply to (e.g. `aprecruit.berkeley.edu` v.s. `recruit.apo.ucla.edu`) and is best found by looking at the department website.
+
+
+Additionally, the UC's in California have their own system for postdoc applications, separate from both mathjobs and Interfolio. The exact link depends on the school you wish to apply to (e.g. `aprecruit.berkeley.edu` v.s. `recruit.apo.ucla.edu`) and is best found by looking at the department website. Some of the UC positions might be cross-posted on mathjobs, but they won't necessarily all be there. Once you are on the relevant link, you may be able to check for other postdoc positions at the same department as follows: `Click on "My Portfolio" and then on "Browse other positions"`. Keep in mind that your letter writers will need to upload their letter separately for each UC position you apply to (even for ones in the same department).
+
+
 In general, if you interested in applying to a specific department (especially if you do not see them on mathjobs), you can often check their website for a page listing open positions and how to apply. 
 
-It is also worth keeping in mind that various mathematical institutes will also fund (often short, maybe 1 or 2 semesters) some postdocs; see, e.g., [SLMath](https://www.slmath.org/postdoctoral-fellowships) or [ICERM](https://icerm.brown.edu/about/postdocs).
+It is also worth keeping in mind that various mathematical institutes will also fund some (often short, maybe 1 or 2 semester-long) postdocs; see, e.g., [SLMath](https://www.slmath.org/postdoctoral-fellowships) or [ICERM](https://icerm.brown.edu/about/postdocs).
 
 ## Europe + Others
 
@@ -78,11 +82,12 @@ Finally, there are certain notable postdocs which may be hard to find if you do 
 * [Berkeley Miller Fellowship](https://miller.berkeley.edu/fellowship)
 * [Marie Curie Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
 * [Clay Fellowship](https://www.claymath.org/fellowship-nominations/)
-* [MIT School of Science Postdoc](https://academicjobsonline.org/ajo/fellowship/28683) (I linked to the application page for the 2024 season because this postdoc has a surprisingly poor online presence)
+* [MIT School of Science Postdoc](https://academicjobsonline.org/ajo/jobs/30590)
 * [Stanford Science Fellows](https://stanfordsciencefellows.stanford.edu/)
 * [Cambridge Herchel Smith Postdoc](https://www.herchelsmith.cam.ac.uk/postdoctoral-fel)
 * [CRM Postdoc in Canada](https://www.crmath.ca/en/mobility-fellowships-and-visitors/crm-ism-postdoctoral-fellowships/) (can think of this as Canadian NSF) 
-* [FSMP Postdoc in Paris](https://sciencesmaths-paris.fr/en/postdoc-fsmp) 
+* [FSMP Postdoc in Paris](https://sciencesmaths-paris.fr/en/postdoc-fsmp)
+* [MPIM Bonn Guest Program](https://www.mpim-bonn.mpg.de/taxonomy/term/45)
 * There may be other positions attached to the DFG (Deutsche Forschungsgemeinschaft) in Germany, the CNRS in France, the Royal Society in the UK, etc.
 
 I did not know about all of these when I was applying, so I am not well versed in what each one entails, but I would generally suggest applying to as many as possible. Personally, I knew about/applied to I think 9 of them; doing so was very helpful in getting (several versions of) my research statement done early (and I accepted an offer from one of them).
@@ -99,6 +104,7 @@ Other things to keep in mind with the NSF postdoc include:
 * If you have questions about the application or offer, you can reach out to one of the program contacts (and setup a phone call or zoom, especially if you want to ask something specific to your situation).
 * Submitting the application will take longer than you expect (I think it took me several hours, after my proposal was already written), so do not start the submission process too late. There are just a lot of NSF-specific documents/procedures you need to go through and the instructions are not always the most clear.
   * There are lots of formatting guidelines/rules when submitting your various documents. It can be hard to know if you have followed all of these perfectly just by reading [the guide](https://www.nsf.gov/policies/pappg/24-1). When you submit a document, the NSF system performs an automated formatting check. If you pass this, you should not worry. The humans who look at your application will not be more stingy than the automated check is.
+* I have heard that the NSF likes to have the set of awardees for any given year be attached to a reasonably spread out set of schools; hence, it may be a little harder to have a successful application if your host is at a university with a high concentration of NSF applicants.
 
 There was also a second NSF postdoc in mathematics, [MPS-Ascend](https://www.nsf.gov/funding/opportunities/mps-ascend-mathematical-physical-sciences-ascending-postdoctoral/505879/nsf23-501), but sadly, it seems unlikely to accept new applicants in 2025. This postdoc had an explicit emphasis on candidates who would work to broaden the participation of underrepresented racial minorities in mathematics (so, for example, your proposal needed to included specific actions you intended to take once at your host institution). If this is something you are interested in, and you are reading this sufficiently far into the future, you should check if either it still exists or if some sort of spiritual successor to it now exists [^11].
 
