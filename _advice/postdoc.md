@@ -52,7 +52,7 @@ Beyond mathjobs, some universities post their jobs on [Interfolio](https://www.i
 Additionally, the UC's in California have their own system for postdoc applications, separate from both mathjobs and Interfolio. The exact link depends on the school you wish to apply to (e.g. `aprecruit.berkeley.edu` v.s. `recruit.apo.ucla.edu`) and is best found by looking at the department website. Some of the UC positions might be cross-posted on mathjobs, but they won't necessarily all be there. Once you are on the relevant link, you may be able to check for other postdoc positions at the same department as follows: `Click on "My Portfolio" and then on "Browse other positions"`. Keep in mind that your letter writers will need to upload their letter separately for each UC position you apply to (even for ones in the same department).
 
 
-In general, if you interested in applying to a specific department (especially if you do not see them on mathjobs), you can often check their website for a page listing open positions and how to apply. 
+In general, if you are interested in applying to a specific department (especially if you do not see them on mathjobs), you can often check their website for a page listing open positions and how to apply. 
 
 It is also worth keeping in mind that various mathematical institutes will also fund some (often short, maybe 1 or 2 semester-long) postdocs; see, e.g., [SLMath](https://www.slmath.org/postdoctoral-fellowships) or [ICERM](https://icerm.brown.edu/about/postdocs).
 
