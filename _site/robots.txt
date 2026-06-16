@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://localhost:4000/~achenjang/sitemap.xml
+Sitemap: https://people.math.harvard.edu/~achenjang/sitemap.xml
