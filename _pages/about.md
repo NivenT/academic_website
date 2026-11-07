@@ -20,7 +20,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Starting Fall 2025, I am a BP and NSF postdoctoral fellow at Harvard, mentored by [Melanie Matchett Wood](https://people.math.harvard.edu/~mmwood/). I completed my PhD at MIT, advised by [Bjorn Poonen](https://math.mit.edu/~poonen/). 
+I am a BP and NSF postdoctoral fellow at Harvard, mentored by [Melanie Matchett Wood](https://people.math.harvard.edu/~mmwood/). 
+<b>In 2027 (from Jan -- Dec), I am on-leave from Harvard, and am instead an FSMP postdoc hosted by [Olivier Wittenberg](https://www.math.univ-paris13.fr/~wittenberg/) at LAGA at Université Sorbonne Paris Nord.</b>
+I completed my PhD at MIT, advised by [Bjorn Poonen](https://math.mit.edu/~poonen/). 
 
 I am broadly interested in arithmetic geometry, arithmetic statistics, and especially in points on varieties. I generally like applying algebro-geometric arguments and cohomology computations in the service of proving finiteness results. See the [research]({{ '/research' | relative_url}}) tab for more on my work.
 

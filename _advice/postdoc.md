@@ -34,7 +34,7 @@ Most, if not all, of this will be expanded upon below, but just to have this upf
 * I once tried asking my advisor about what makes a good/successful postdoc, and one of things he said, paraphrased here based off memory, was that you want to establish mathematical independence (from your advisor). You should not only continue your PhD work, but should instead show people you have the ability to do your own mathematics beyond just following your advisor's suggestions [^9]. This sort of advice is echoed in the "deserted island test" (see [Research Statement](#research-statement)) another mathematician told me he likes.
 * A typical postdoc offer is 3 years. It is not uncommon for people to combine multiple offers, in which case you might be able to line up additional postdoc years up front. 
   * Having additional postdoc years guaranteed has obvious benefits, but also some things to be aware of. Apparently, when applying for TT (tenure-track), if you have been a postdoc for an extra long time, then you will tend to be judged to a higher standard. People will expect that, because you have had extra time, you will have proved extra impressive results.
-* Definitely, some of what I say/mention no longer applies/exists because of Trump's attacks on academia, so beware of this. 
+* Definitely, some of what I say/mention no longer applies/exists because of Trump's attacks on academia & because of the effects of advancements in AI since I applied, so beware of this. 
 
 # Finding Positions
 
@@ -249,6 +249,8 @@ As some examples, here are three versions of my research statement: [the long ve
 # Other Application Materials
 
 The rest of your application will usually consist of some subset of a teaching and/or diversity statement, a cover letter, a CV, and a description/extended abstract of your dissertation. I suppose it is on you to figure out what goes in this last one, and CVs are common enough that I imagine you have a decent idea of what to put in one (if not, there are numerous examples on various mathematicians' websites), so I will just say a few words about the other two [^12].
+
+One thing which was uncommon when I applied, but may become more common as time goes on, is to be interviewed as part of your postdoc application. There is not much advice on interviews here, since these were not so much a thing when I applied, but if do need to do an interview, make sure to prepare well, to practice audibly explaining your work (results, context, main ideas/applications, etc.) to mathematicians not directly in your area, to follow advice for giving good mathematical talks, and to be prepared to potentially be a bit more socialable/actively conversational than you are usually.
 
 ## Teaching/Diversity Statements
 
