@@ -171,6 +171,9 @@ scholar:
   bibliography: papers.bib
   bibliography_template: bib
 
+  sort_by: year,month,title
+  order: descending, descending, ascending
+
   replace_strings: true
   join_strings: true
 

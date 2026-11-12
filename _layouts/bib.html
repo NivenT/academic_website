@@ -75,7 +75,9 @@
       {% elsif entry.type == "inproceedings" %}
         <em>In {{entry.booktitle}}</em>
       {% endif %}
-      {% if entry.year %}
+      {% if entry.accepted %}
+        Accepted
+      {% else if entry.year %}
         {{entry.year}}
       {% endif %}
       </div>
