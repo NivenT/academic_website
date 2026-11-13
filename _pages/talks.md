@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: talks
-description: Here is a list of more-or-less every talk I've ever given.
+description: Here is a list of more-or-less every talk I have ever given.
 types: [Conference Talks, Research Seminar Talks, Learning Seminar Talks, Other Talks]
 nav: true
 has_math: true

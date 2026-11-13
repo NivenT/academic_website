@@ -34,7 +34,7 @@ Most, if not all, of this will be expanded upon below, but just to have this upf
 * I once tried asking my advisor about what makes a good/successful postdoc, and one of things he said, paraphrased here based off memory, was that you want to establish mathematical independence (from your advisor). You should not only continue your PhD work, but should instead show people you have the ability to do your own mathematics beyond just following your advisor's suggestions [^9]. This sort of advice is echoed in the "deserted island test" (see [Research Statement](#research-statement)) another mathematician told me he likes.
 * A typical postdoc offer is 3 years. It is not uncommon for people to combine multiple offers, in which case you might be able to line up additional postdoc years up front. 
   * Having additional postdoc years guaranteed has obvious benefits, but also some things to be aware of. Apparently, when applying for TT (tenure-track), if you have been a postdoc for an extra long time, then you will tend to be judged to a higher standard. People will expect that, because you have had extra time, you will have proved extra impressive results.
-* Definitely, some of what I say/mention no longer applies/exists because of Trump's attacks on academia, so beware of this. 
+* Definitely, some of what I say/mention no longer applies/exists because of Trump's attacks on academia & because of the effects of advancements in AI since I applied, so beware of this. 
 
 # Finding Positions
 
@@ -72,10 +72,10 @@ It is my understanding that postdoc applications outside of the US tend to be le
 
 ## Some Fancy Positions
 
-Finally, there are certain notable postdocs which may be hard to find if you do not already know about them. **These tend to have early (i.e. pre-November, some in August or September) deadlines**, sometimes require you to identify a host mentor in your application [^2], and sometimes require that you be "nominated" to apply (in practice, this means you ask your advisor to nominate you). They may also require an interview (in which case, it is helpful to ask people who have applied previously for advice on interviewing). Some such positions include (this is a non-exhaustive list, mostly because I do not know all such positions):
+Finally, there are certain notable postdocs which may be hard to find if you do not already know about them. **These tend to have early (i.e. pre-November, some in August or September) deadlines**, sometimes require you to identify a host mentor in your application [^2], and sometimes require that you be "nominated" to apply (in practice, this means you ask your advisor to nominate you). They may also require an interview (in which case, it is helpful to ask people who have applied previously for advice on interviewing). Some such positions include (this is a **non-exhaustive** list, mostly because I do not know all such positions):
 
 * [Klarman Fellowship at Cornell](https://as.cornell.edu/research/klarman-fellowships)
-* LSA Collegiate Fellowship at UMich
+* [LSA Collegiate Fellowship at UMich](https://bowmancenter.umich.edu/initiatives/lsa-collegiate-fellowship-program/)
 * [Presidents Postdoctoral Fellowship](https://ppfp.ucop.edu/info/how-to-apply/)
 * [Harvard Society of Fellows](https://socfell.onlinesubmissionportal.com/nomination/)
 * [Simons Society of Fellows in NYC](https://www.simonsfoundation.org/simons-society-of-fellows/nominations/)
@@ -217,7 +217,7 @@ For your teaching letter:
 
 This is the main place where you get to advertise yourself/your work. Different applications will require different materials, but essentially all of them will include a research statement. The length/content requirements vary by application, so you will end up needing to maintain multiple versions of this document (I must've had like circa 10 versions or something). For my "generic" research statement that I submitted to most places on math jobs, I kept it 4 pages (not including references), but I think most people have their "generic" one be 5 pages [^8]. When writing your research statements, keep in mind the following:
 
-* The people reading your statement won't necessarily be in your subject area. In fact, given how many applications a postdoc committee needs to get through, most people looking at it probably will both (a) not be in your subject area and (b) not spend time looking beyone the first page or so.
+* The people reading your statement won't necessarily be in your subject area. In fact, given how many applications a postdoc committee needs to get through, most people looking at it probably will both (a) not be in your subject area and (b) not spend time looking beyond the first page or so.
   * As a result, it helps to make it easy to read/navigate, e.g. by including clickable hyperlinks/references; by clearly making theorem statements, problem suggestions, etc. standout (i.e. use latex environments); by using bullet points; etc. 
 * It should be somewhat understandable to the generic mathematician. The beginning (first page, say) should be readily accessible to the generic mathematician.
 * It is nice if you can have a theorem statement (of yours) already on the first page.
@@ -249,6 +249,8 @@ As some examples, here are three versions of my research statement: [the long ve
 # Other Application Materials
 
 The rest of your application will usually consist of some subset of a teaching and/or diversity statement, a cover letter, a CV, and a description/extended abstract of your dissertation. I suppose it is on you to figure out what goes in this last one, and CVs are common enough that I imagine you have a decent idea of what to put in one (if not, there are numerous examples on various mathematicians' websites), so I will just say a few words about the other two [^12].
+
+One thing which was uncommon when I applied, but may become more common as time goes on, is to be interviewed as part of your postdoc application. There is not much advice on interviews here, since these were not so much a thing when I applied, but if do need to do an interview, make sure to prepare well, to practice audibly explaining your work (results, context, main ideas/applications, etc.) to mathematicians not directly in your area, to follow advice for giving good mathematical talks, and to be prepared to potentially be a bit more socialable/actively conversational than you are usually.
 
 ## Teaching/Diversity Statements
 

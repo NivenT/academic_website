@@ -6,7 +6,7 @@
       {% assign news = site.news | where: "skip", empty | reverse %}
       {% for item in news limit: site.news_limit %}
         <tr>
-          <th scope="row">
+          <th scope="row" style="width: 10%;">
             {% if item.short_date %}
               {{ item.date | date: "%b %Y" }}
             {% else %}
