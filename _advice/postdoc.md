@@ -72,10 +72,10 @@ It is my understanding that postdoc applications outside of the US tend to be le
 
 ## Some Fancy Positions
 
-Finally, there are certain notable postdocs which may be hard to find if you do not already know about them. **These tend to have early (i.e. pre-November, some in August or September) deadlines**, sometimes require you to identify a host mentor in your application [^2], and sometimes require that you be "nominated" to apply (in practice, this means you ask your advisor to nominate you). They may also require an interview (in which case, it is helpful to ask people who have applied previously for advice on interviewing). Some such positions include (this is a non-exhaustive list, mostly because I do not know all such positions):
+Finally, there are certain notable postdocs which may be hard to find if you do not already know about them. **These tend to have early (i.e. pre-November, some in August or September) deadlines**, sometimes require you to identify a host mentor in your application [^2], and sometimes require that you be "nominated" to apply (in practice, this means you ask your advisor to nominate you). They may also require an interview (in which case, it is helpful to ask people who have applied previously for advice on interviewing). Some such positions include (this is a **non-exhaustive** list, mostly because I do not know all such positions):
 
 * [Klarman Fellowship at Cornell](https://as.cornell.edu/research/klarman-fellowships)
-* LSA Collegiate Fellowship at UMich
+* [LSA Collegiate Fellowship at UMich](https://bowmancenter.umich.edu/initiatives/lsa-collegiate-fellowship-program/)
 * [Presidents Postdoctoral Fellowship](https://ppfp.ucop.edu/info/how-to-apply/)
 * [Harvard Society of Fellows](https://socfell.onlinesubmissionportal.com/nomination/)
 * [Simons Society of Fellows in NYC](https://www.simonsfoundation.org/simons-society-of-fellows/nominations/)
@@ -217,7 +217,7 @@ For your teaching letter:
 
 This is the main place where you get to advertise yourself/your work. Different applications will require different materials, but essentially all of them will include a research statement. The length/content requirements vary by application, so you will end up needing to maintain multiple versions of this document (I must've had like circa 10 versions or something). For my "generic" research statement that I submitted to most places on math jobs, I kept it 4 pages (not including references), but I think most people have their "generic" one be 5 pages [^8]. When writing your research statements, keep in mind the following:
 
-* The people reading your statement won't necessarily be in your subject area. In fact, given how many applications a postdoc committee needs to get through, most people looking at it probably will both (a) not be in your subject area and (b) not spend time looking beyone the first page or so.
+* The people reading your statement won't necessarily be in your subject area. In fact, given how many applications a postdoc committee needs to get through, most people looking at it probably will both (a) not be in your subject area and (b) not spend time looking beyond the first page or so.
   * As a result, it helps to make it easy to read/navigate, e.g. by including clickable hyperlinks/references; by clearly making theorem statements, problem suggestions, etc. standout (i.e. use latex environments); by using bullet points; etc. 
 * It should be somewhat understandable to the generic mathematician. The beginning (first page, say) should be readily accessible to the generic mathematician.
 * It is nice if you can have a theorem statement (of yours) already on the first page.
