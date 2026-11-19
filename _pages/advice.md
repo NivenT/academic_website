@@ -37,6 +37,9 @@ nav: true
     <li>
         <a href="https://www.ams.org/journals/notices/202106/rnoti-p930.pdf?adat=June/July%202021&trk=2305&cat=career&galt=career">Practical suggestions for mathematical writing (by some Bjorn students)</a>
     </li>
+    <li>
+        [How to write mathematics badly (by Serre)](https://www.youtube.com/watch?v=ECQyFzzBHlo)
+    </li>
 </ul>
 
 
