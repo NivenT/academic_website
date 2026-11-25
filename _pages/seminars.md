@@ -1,10 +1,10 @@
 ---
 layout: page
-title: seminars
+title: seminars/conferences
 permalink: /seminars/
-description: Some seminars I have (helped) organize.
+description: Some seminars/conferences I have (helped) organize.
 nav: true
-years: [2025, 2023]
+years: [2026, 2025, 2023]
 horizontal: false
 ---
 
