@@ -26,9 +26,9 @@ I completed my PhD at MIT, advised by [Bjorn Poonen](https://math.mit.edu/~poone
 
 I am broadly interested in arithmetic geometry, arithmetic statistics, and especially in points on varieties. I generally like applying algebro-geometric arguments and cohomology computations in the service of proving finiteness results. See the [research]({{ '/research' | relative_url}}) tab for more on my work.
 
-You can find more information about me and my work in my [cv]({{ '/assets/pdf/cv.pdf' | relative_url}}) or under the "news" header below.
+You can find more information about me/my career in my [cv]({{ '/assets/pdf/cv.pdf' | relative_url}}) or under the "news" header below.
 
 Fun fact: if you press the moon/sun in the top right, you can switch between light/dark themes for this site.
 <div style="color:var(--global-bg-color);">
-    There are many hidden secrets on this site. Try and find them all (seems some of them are less hidden on mobile...
+    There are many hidden secrets on this site. Try and find them all (seems some of them are less hidden on mobile...)
     
